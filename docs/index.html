@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+    <meta name="theme-color" content="#04060a">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>ACC Business Club</title>
+    <link rel="icon" href="assets/logo/acc_bc.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/pages.css">
+    <style>
+.scroll-container{scrollbar-width:none;-ms-overflow-style:none}
+.scroll-container::-webkit-scrollbar{width:0;height:0;display:none}
+body{overflow-y:auto;overflow-x:hidden;scrollbar-width:none;-ms-overflow-style:none}
+body::-webkit-scrollbar{width:0;height:0;display:none}
+</style>
+</head>
+<body>
+
+    <!-- Fluid Color Canvas -->
+    <div class="ambient-canvas">
+        <div class="orb orb-1" id="orb1"></div>
+        <div class="orb orb-2" id="orb2"></div>
+        <div class="orb orb-3" id="orb3"></div>
+    </div>
+
+    <!-- Intro Shield -->
+    <div class="intro-overlay" id="intro-screen">
+        <div class="intro-container">
+            <div class="phrase-one" id="jump-phrase">possibilities are infinite</div>
+            <div class="phrase-two">those who <strong>dare win</strong></div>
+        </div>
+    </div>
+
+    <!-- Liquid Drop Navbar -->
+    <nav class="navbar" id="glass-nav">
+        <div class="nav-content">
+            <a href="#" class="logo"><img class="logo-img" src="assets/logo/acc_bc.png" alt="ACC"> ACC Business Club</a>
+            <div class="nav-links" id="nav-links">
+                <a href="#about">About</a>
+                <a href="executives/">Executives</a>
+                <a href="teachers/">Teachers</a>
+                <a href="advisors/">Advisors</a>
+                <a href="alumni/">Alumni</a>
+                <a href="events/">Events</a>
+                <a href="gallery/">Gallery</a>
+            </div>
+            <button class="hamburger" id="hamburger-btn" aria-label="Toggle menu">
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+            </button>
+        </div>
+    </nav>
+
+    <div class="mobile-menu" id="mobile-menu">
+        <nav class="mobile-menu-nav">
+            <a href="#about" class="mobile-menu-link">About</a>
+            <a href="executives/" class="mobile-menu-link">Executives</a>
+            <a href="teachers/" class="mobile-menu-link">Teachers</a>
+            <a href="advisors/" class="mobile-menu-link">Advisors</a>
+            <a href="alumni/" class="mobile-menu-link">Alumni</a>
+            <a href="events/" class="mobile-menu-link">Events</a>
+            <a href="gallery/" class="mobile-menu-link">Gallery</a>
+        </nav>
+    </div>
+
+    <!-- Scroll Container -->
+    <main class="scroll-container">
+
+    <!-- Hero Frame -->
+    <section class="hero snap-section" id="hero-section">
+        <div class="hero-content">
+            <p class="kicker" id="hero-kicker">Adamjee Cantonment College Business Club</p>
+            <h1 class="main-heading">Shape your future in</h1>
+            
+            <div class="scroller-window">
+                <div class="scroller-track" id="scroller-track"></div>
+            </div>
+        </div>
+
+        <div class="hero-visual">
+            <div class="hero-photo active" id="hero-photo-1"></div>
+            <div class="hero-photo" id="hero-photo-2"></div>
+        </div>
+    </section>
+
+    <!-- Bento Grid Section -->
+    <section id="about" class="welcome-section snap-section section-overflow">
+        <div class="section-content">
+            <div class="welcome-container">
+                <div class="welcome-header">
+                    <h2 class="welcome-title">We're glad you're here.</h2>
+                    <p class="welcome-subtitle">This isn't theory. We build structural competencies across crucial financial and functional execution spaces to establish competitive leadership traits.</p>
+                </div>
+
+                <div class="bento-grid">
+                    <!-- 1. Networking -->
+                    <div class="bento-card card-wide card-net" data-watermark="NET">
+                        <div class="card-icon">✦</div>
+                        <div class="card-text-wrapper">
+                            <h3>Networking</h3>
+                            <p>Construct sustainable corporate connections. Engage continuously with top-tier operators, industry alumni, and corporate builders.</p>
+                        </div>
+                    </div>
+
+                    <!-- 2. Leadership -->
+                    <div class="bento-card card-tall card-lead" data-watermark="EXEC">
+                        <div class="card-icon">◈</div>
+                        <div>
+                            <h3>Leadership</h3>
+                            <p>Establish organizational ownership. Take control of mission-critical team directives and drive operational objectives forward from day one.</p>
+                        </div>
+                    </div>
+
+                    <!-- 3. Marketing -->
+                    <div class="bento-card card-mkt" data-watermark="MKT">
+                        <div class="card-icon">▲</div>
+                        <div>
+                            <h3>Marketing</h3>
+                            <p>Deconstruct structural growth vectors. Master consumer behavior psychology and engineer hyper-targeted distribution pipelines.</p>
+                        </div>
+                    </div>
+
+                    <!-- 4. Finance -->
+                    <div class="bento-card card-fin" data-watermark="CAP">
+                        <div class="card-icon">■</div>
+                        <div>
+                            <h3>Finance</h3>
+                            <p>Deconstruct market mechanics. Evaluate strategic corporate portfolios and master foundational macro asset deployment structures.</p>
+                        </div>
+                    </div>
+
+                    <!-- 5. Strategy -->
+                    <div class="bento-card card-wide card-strat" data-watermark="STRAT">
+                        <div class="card-icon">▼</div>
+                        <div class="card-text-wrapper">
+                            <h3>Strategy</h3>
+                            <p>Formulate tactical execution models. Analyze complex systematic game theory loops to successfully intercept shifting operational competitive landscapes.</p>
+                        </div>
+                    </div>
+
+                    <!-- 6. FinTech -->
+                    <div class="bento-card card-tech" data-watermark="TECH">
+                        <div class="card-icon">❖</div>
+                        <div>
+                            <h3>FinTech</h3>
+                            <p>Architect next-gen transactions. Bridge decentralized protocols with legacy financial structures to build software-driven value workflows.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Executive Members Section -->
+    <section id="executives" class="team-section snap-section section-overflow">
+        <div class="section-content">
+            <div class="team-container">
+                <div class="team-header">
+                    <h2 class="team-title">Executive Members</h2>
+                </div>
+                
+                <div class="member-grid" id="home-exec-grid" data-limit="3"></div>
+            <div class="section-cta">
+                <a href="executives/" class="cta-link">View All Executives →</a>
+            </div>
+        </div>
+    </div>
+    </section>
+
+    <!-- Teachers Panel Section -->
+    <section id="teachers" class="team-section snap-section section-overflow">
+        <div class="section-content">
+            <div class="team-container">
+                <div class="team-header">
+                    <h2 class="team-title">Teachers Panel</h2>
+                </div>
+                
+                <div class="member-grid" id="home-teachers-grid" data-limit="3"></div>
+            <div class="section-cta">
+                <a href="teachers/" class="cta-link">View All Teachers →</a>
+            </div>
+        </div>
+    </div>
+    </section>
+
+    <!-- Advisors Panel Section -->
+    <section id="advisors" class="team-section snap-section section-overflow">
+        <div class="section-content">
+            <div class="team-container">
+                <div class="team-header">
+                    <h2 class="team-title">Advisors Panel</h2>
+                </div>
+                
+                <div class="member-grid" id="home-advisors-grid" data-limit="3"></div>
+            <div class="section-cta">
+                <a href="advisors/" class="cta-link">View All Advisors →</a>
+            </div>
+        </div>
+    </div>
+    </section>
+
+    <!-- Alumni Section -->
+    <section id="alumni" class="team-section snap-section section-overflow">
+        <div class="section-content">
+            <div class="team-container">
+                <div class="team-header">
+                    <h2 class="team-title">Alumni Panel</h2>
+                    <p class="team-subtitle">Former leaders who have shaped the legacy of ACC Business Club.</p>
+                </div>
+                
+                <div class="year-tabs" id="alumni-tabs"></div>
+                <div class="member-grid" id="alumni-grid" data-homepage="true"></div>
+            </div>
+            <div class="section-cta">
+                <a href="alumni/" class="cta-link">View All Alumni →</a>
+            </div>
+        </div>
+    </section>
+
+</main><!-- /scroll-container -->
+
+<footer class="site-footer" id="site-footer"></footer>
+
+    <script src="js/members.js"></script>
+    <script src="js/intro.js"></script>
+    <script src="js/navbar.js"></script>
+    <script src="js/hero.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/alumni.js"></script>
+    <script>renderMembers("/executives.json","home-exec-grid");</script>
+    <script>renderMembers("/teachers.json","home-teachers-grid");</script>
+    <script>renderMembers("/advisors.json","home-advisors-grid");</script>
+    <script>
+    document.querySelectorAll('.cta-link').forEach(function(link) {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            var href = this.getAttribute('href');
+            this.classList.add('sheening');
+            setTimeout(function() {
+                window.location.href = href;
+            }, 500);
+        });
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+[
+  { "id": "evt-01", "title": "Networking Session", "description": "Building connections that matter. Members engaged with industry professionals.", "image": "/assets/gallery/gallery-4.webp" },
+  { "id": "evt-02", "title": "Marketing Workshop", "description": "Hands-on workshop on consumer behavior and growth strategies.", "image": "/assets/gallery/gallery-6.webp" },
+  { "id": "evt-03", "title": "Leadership Summit", "description": "Executive team leading discussions on organizational ownership.", "image": "/assets/gallery/gallery-11.webp" },
+  { "id": "evt-04", "title": "Finance Forum", "description": "Deep dive into market mechanics and portfolio evaluation.", "image": "/assets/gallery/gallery-13.webp" },
+  { "id": "evt-05", "title": "Strategy Hackathon", "description": "Teams competed in game-theory based business simulations.", "image": "/assets/gallery/gallery-9.webp" },
+  { "id": "evt-06", "title": "FinTech Night", "description": "Exploring decentralized protocols and digital value workflows.", "image": "/assets/gallery/gallery-5.webp" }
+]

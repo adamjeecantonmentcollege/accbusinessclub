@@ -1,0 +1,13 @@
+{
+  "eyebrow": "Connect",
+  "title": "Get in Touch",
+  "subtitle": "Have questions or want to join? We'd love to hear from you.",
+  "info": [
+    { "type": "email", "heading": "Email", "value": "abc@acc.edu.bd" },
+    { "type": "location", "heading": "Location", "value": "Adamjee Cantonment College<br>Dhaka, Bangladesh" },
+    { "type": "social", "heading": "Social", "links": [
+      { "label": "Facebook", "url": "#" },
+      { "label": "Instagram", "url": "#" }
+    ]}
+  ]
+}

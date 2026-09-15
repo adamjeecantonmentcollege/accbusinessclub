@@ -1,0 +1,16 @@
+[
+  { "id": "gal-01", "image": "/assets/gallery/gallery-1.webp", "caption": "Gallery image" },
+  { "id": "gal-02", "image": "/assets/gallery/gallery-2.webp", "caption": "Gallery image" },
+  { "id": "gal-03", "image": "/assets/gallery/gallery-3.webp", "caption": "Gallery image" },
+  { "id": "gal-04", "image": "/assets/gallery/gallery-4.webp", "caption": "Gallery image" },
+  { "id": "gal-05", "image": "/assets/gallery/gallery-5.webp", "caption": "Gallery image" },
+  { "id": "gal-06", "image": "/assets/gallery/gallery-6.webp", "caption": "Gallery image" },
+  { "id": "gal-07", "image": "/assets/gallery/gallery-7.webp", "caption": "Gallery image" },
+  { "id": "gal-08", "image": "/assets/gallery/gallery-8.webp", "caption": "Gallery image" },
+  { "id": "gal-09", "image": "/assets/gallery/gallery-9.webp", "caption": "Gallery image" },
+  { "id": "gal-10", "image": "/assets/gallery/gallery-10.webp", "caption": "Gallery image" },
+  { "id": "gal-11", "image": "/assets/gallery/gallery-11.webp", "caption": "Gallery image" },
+  { "id": "gal-12", "image": "/assets/gallery/gallery-12.webp", "caption": "Gallery image" },
+  { "id": "gal-13", "image": "/assets/gallery/gallery-13.webp", "caption": "Gallery image" },
+  { "id": "gal-14", "image": "/assets/gallery/gallery-14.webp", "caption": "Gallery image" }
+]

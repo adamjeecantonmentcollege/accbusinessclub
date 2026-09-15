@@ -1,0 +1,55 @@
+:root {
+    --bg-dark: #04060a;
+    --brand-blue: rgba(34, 147, 205, 1);
+    --brand-green: rgba(122, 162, 65, 1);
+    --brand-yellow: rgba(249, 182, 31, 1);
+    --brand-purple: rgba(155, 89, 182, 1);
+    --accent: var(--brand-blue);
+    --orb-1: rgba(34, 147, 205, 0.6);
+    --orb-2: rgba(122, 162, 65, 0.4);
+    --orb-3: rgba(249, 182, 31, 0.3);
+    --card-bg: rgba(255, 255, 255, 0.02);
+    --card-border: rgba(255, 255, 255, 0.06);
+}
+
+body[data-theme="networking"] {
+    --accent: var(--brand-blue);
+    --orb-1: rgba(34, 147, 205, 0.7); --orb-2: rgba(122, 162, 65, 0.2); --orb-3: rgba(249, 182, 31, 0.1);
+}
+body[data-theme="leadership"] {
+    --accent: var(--brand-yellow);
+    --orb-1: rgba(249, 182, 31, 0.7); --orb-2: rgba(34, 147, 205, 0.3); --orb-3: rgba(122, 162, 65, 0.1);
+}
+body[data-theme="marketing"]  {
+    --accent: var(--brand-green);
+    --orb-1: rgba(122, 162, 65, 0.7); --orb-2: rgba(249, 182, 31, 0.3); --orb-3: rgba(34, 147, 205, 0.1);
+}
+body[data-theme="finance"]    {
+    --accent: var(--brand-blue);
+    --orb-1: rgba(34, 147, 205, 0.7); --orb-2: rgba(249, 182, 31, 0.2); --orb-3: rgba(122, 162, 65, 0.1);
+}
+body[data-theme="strategy"]   {
+    --accent: var(--brand-yellow);
+    --orb-1: rgba(249, 182, 31, 0.7); --orb-2: rgba(122, 162, 65, 0.3); --orb-3: rgba(34, 147, 205, 0.1);
+}
+body[data-theme="fintech"]    {
+    --accent: var(--brand-green);
+    --orb-1: rgba(122, 162, 65, 0.7); --orb-2: rgba(34, 147, 205, 0.3); --orb-3: rgba(249, 182, 31, 0.1);
+}
+
+* { -webkit-tap-highlight-color: transparent; }
+html { -webkit-overflow-scrolling: touch; overscroll-behavior: none; overflow-x: clip; }
+
+body {
+    margin: 0; padding: 0;
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bg-dark);
+    color: #ffffff;
+    overflow: hidden;
+    height: 100vh;
+    height: 100dvh;
+    transition: background-color 1s ease;
+}
+
+img { max-width: 100%; height: auto; }
+a { cursor: pointer; }

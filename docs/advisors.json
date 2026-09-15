@@ -1,0 +1,127 @@
+[
+  {
+    "id": "adv-01",
+    "name": "Samiha Saiyara Saba",
+    "role": "Chief Advisor",
+    "image": "/assets/samiha-saiyara-saba.webp",
+    "facebook": "ellis.johnson",
+    "instagram": "@ellisjohnson",
+    "whatsapp": "+8801712345615",
+    "phone_number": "+8801712340015",
+    "quote": "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Established a scholarship program for outstanding student leaders"
+      },
+      {
+        "serial": 2,
+        "text": "Chaired the advisory board for 3 consecutive academic years"
+      },
+      {
+        "serial": 3,
+        "text": "Provided strategic guidance that helped the club grow membership by 200%"
+      }
+    ]
+  },
+  {
+    "id": "adv-02",
+    "name": "Md Seefath E Karim Saad",
+    "role": "Advisor",
+    "image": "/assets/md-seefath-e-karim-saad.webp",
+    "facebook": "riley.park",
+    "instagram": "@rileypark",
+    "whatsapp": "+8801712345608",
+    "phone_number": "+8801712340008",
+    "quote": "Experience is the teacher of all things.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Chaired the advisory board for 3 consecutive academic years"
+      },
+      {
+        "serial": 2,
+        "text": "Provided strategic guidance that helped the club grow membership by 200%"
+      },
+      {
+        "serial": 3,
+        "text": "Facilitated connections with 10+ industry professionals for student mentorship"
+      }
+    ]
+  },
+  {
+    "id": "adv-03",
+    "name": "Sherana Shaif Liana",
+    "role": "Advisor",
+    "image": "/assets/sherana-shaif-liana.webp",
+    "facebook": "cameron.davis",
+    "instagram": "@camerondavis",
+    "whatsapp": "+8801712345613",
+    "phone_number": "+8801712340013",
+    "quote": "Experience is the teacher of all things.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Chaired the advisory board for 3 consecutive academic years"
+      },
+      {
+        "serial": 2,
+        "text": "Provided strategic guidance that helped the club grow membership by 200%"
+      },
+      {
+        "serial": 3,
+        "text": "Facilitated connections with 10+ industry professionals for student mentorship"
+      }
+    ]
+  },
+  {
+    "id": "adv-04",
+    "name": "Tuba Sikder Bulbule",
+    "role": "Advisor",
+    "image": "/assets/tuba-sikder-bulbule.webp",
+    "facebook": "casey.kim",
+    "instagram": "@caseykim_",
+    "whatsapp": "+8801712345607",
+    "phone_number": "+8801712340007",
+    "quote": "Advice is like snow; the softer it falls, the longer it dwells upon the mind.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Advised on financial strategy resulting in a 50% increase in event funding"
+      },
+      {
+        "serial": 2,
+        "text": "Established a scholarship program for outstanding student leaders"
+      },
+      {
+        "serial": 3,
+        "text": "Chaired the advisory board for 3 consecutive academic years"
+      }
+    ]
+  },
+  {
+    "id": "adv-05",
+    "name": "Sanjida Jahan",
+    "role": "Advisor",
+    "image": "/assets/sanjida-jahan.webp",
+    "facebook": "morgan.chen",
+    "instagram": "@morganchen",
+    "whatsapp": "+8801712345606",
+    "phone_number": "+8801712340006",
+    "quote": "The greatest wisdom is knowing what you don't know.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Provided strategic guidance that helped the club grow membership by 200%"
+      },
+      {
+        "serial": 2,
+        "text": "Facilitated connections with 10+ industry professionals for student mentorship"
+      },
+      {
+        "serial": 3,
+        "text": "Advised on financial strategy resulting in a 50% increase in event funding"
+      }
+    ]
+  }
+]

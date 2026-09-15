@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+    <meta name="theme-color" content="#04060a">
+    <title>Executive Members | ACC Business Club</title>
+    <link rel="icon" href="../assets/logo/acc_bc.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/layout.css">
+    <link rel="stylesheet" href="../css/components.css">
+    <link rel="stylesheet" href="../css/pages.css">
+    <link rel="stylesheet" href="../css/responsive.css">
+</head>
+<body class="page-body">
+
+    <div class="ambient-canvas">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+
+    <nav class="navbar" id="glass-nav">
+        <div class="nav-content">
+            <a href="/" class="logo"><img class="logo-img" src="../assets/logo/acc_bc.png" alt="ACC"> ACC Business Club</a>
+            <div class="nav-links">
+                <a href="/">Home</a>
+                <a href="../executives/">Executives</a>
+                <a href="../teachers/">Teachers</a>
+                <a href="../advisors/">Advisors</a>
+                <a href="../alumni/">Alumni</a>
+                <a href="../events/">Events</a>
+                <a href="../gallery/">Gallery</a>
+            </div>
+            <button class="hamburger" id="hamburger-btn" aria-label="Toggle menu">
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+            </button>
+        </div>
+    </nav>
+
+    <div class="mobile-menu" id="mobile-menu">
+        <nav class="mobile-menu-nav">
+            <a href="/" class="mobile-menu-link">Home</a>
+            <a href="../executives/" class="mobile-menu-link">Executives</a>
+            <a href="../teachers/" class="mobile-menu-link">Teachers</a>
+            <a href="../advisors/" class="mobile-menu-link">Advisors</a>
+            <a href="../alumni/" class="mobile-menu-link">Alumni</a>
+            <a href="../events/" class="mobile-menu-link">Events</a>
+            <a href="../gallery/" class="mobile-menu-link">Gallery</a>
+        </nav>
+    </div>
+
+    <div class="page-header">
+        <p class="team-eyebrow">Leadership</p>
+        <h1>Executive Members</h1>
+        <p>The dedicated team driving ACC Business Club forward.</p>
+    </div>
+
+    <div class="page-content">
+        <div class="member-grid" id="executives-grid"></div>
+    </div>
+
+    <footer class="site-footer" id="site-footer"></footer>
+
+    <script src="../js/navbar.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/members.js"></script>
+    <script>renderMembers("/executives.json","executives-grid");</script>
+</body>
+</html>

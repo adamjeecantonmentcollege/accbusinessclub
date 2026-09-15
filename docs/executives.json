@@ -1,0 +1,527 @@
+[
+  {
+    "id": "exec-01",
+    "name": "Siyam Sami Chowdhury",
+    "role": "President",
+    "image": "/assets/siyam-sami-chowdhury.webp",
+    "facebook": "casey.kim",
+    "instagram": "@caseykim_",
+    "whatsapp": "+8801712345607",
+    "phone_number": "+8801712340007",
+    "quote": "In the middle of every difficulty lies opportunity.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 20+ junior members in business case competition preparation"
+      },
+      {
+        "serial": 2,
+        "text": "Spearheaded the club's digital transformation initiative, increasing engagement by 40%"
+      },
+      {
+        "serial": 3,
+        "text": "Represented the club at the National Business Conference and won 2nd place"
+      }
+    ]
+  },
+  {
+    "id": "exec-02",
+    "name": "Mohammed Shahriar Hossain",
+    "role": "Vice President",
+    "image": "/assets/mohammed-shahriar-hossain.webp",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 20+ junior members in business case competition preparation"
+      },
+      {
+        "serial": 2,
+        "text": "Spearheaded the club's digital transformation initiative, increasing engagement by 40%"
+      },
+      {
+        "serial": 3,
+        "text": "Represented the club at the National Business Conference and won 2nd place"
+      }
+    ]
+  },
+  {
+    "id": "exec-03",
+    "name": "Tahsin Nawal Rahman",
+    "role": "General Secretary",
+    "image": "/assets/tahsin-nawal-rahman.webp",
+    "facebook": "alex.jordan",
+    "instagram": "@alexjordan",
+    "whatsapp": "+8801712345604",
+    "phone_number": "+8801712340004",
+    "quote": "Great things in business are never done by one person. They're done by a team.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Managed a budget of $10,000+ for semester events with 95% efficiency"
+      },
+      {
+        "serial": 2,
+        "text": "Launched the first-ever alumni networking event with 60+ attendees"
+      },
+      {
+        "serial": 3,
+        "text": "Developed the club's strategic roadmap for the 2025-26 academic year"
+      }
+    ]
+  },
+  {
+    "id": "exec-04",
+    "name": "Shahadat Islam Shadhin",
+    "role": "Joint Secretary",
+    "image": "/assets/shahadat-islam-shadhin.webp",
+    "facebook": "jordan.smith",
+    "instagram": "@jordan.smith",
+    "whatsapp": "+8801712345609",
+    "phone_number": "+8801712340009",
+    "quote": "Stay hungry, stay foolish.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Managed a budget of $10,000+ for semester events with 95% efficiency"
+      },
+      {
+        "serial": 2,
+        "text": "Launched the first-ever alumni networking event with 60+ attendees"
+      },
+      {
+        "serial": 3,
+        "text": "Developed the club's strategic roadmap for the 2025-26 academic year"
+      }
+    ]
+  },
+  {
+    "id": "exec-05",
+    "name": "Ahnaf Rashid",
+    "role": "Organizing Secretary",
+    "image": "/assets/ahnaf-rashid.webp",
+    "facebook": "janedoe",
+    "instagram": "@janedoe_",
+    "whatsapp": "+8801712345602",
+    "phone_number": "+8801712340002",
+    "quote": "The best way to predict the future is to create it.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 20+ junior members in business case competition preparation"
+      },
+      {
+        "serial": 2,
+        "text": "Spearheaded the club's digital transformation initiative, increasing engagement by 40%"
+      },
+      {
+        "serial": 3,
+        "text": "Represented the club at the National Business Conference and won 2nd place"
+      }
+    ]
+  },
+  {
+    "id": "exec-06",
+    "name": "Swakshor Sarker",
+    "role": "Joint Organizing Secretary",
+    "image": "/assets/swakshor-sarker.webp",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 20+ junior members in business case competition preparation"
+      },
+      {
+        "serial": 2,
+        "text": "Spearheaded the club's digital transformation initiative, increasing engagement by 40%"
+      },
+      {
+        "serial": 3,
+        "text": "Represented the club at the National Business Conference and won 2nd place"
+      }
+    ]
+  },
+  {
+    "id": "exec-07",
+    "name": "Abtahi Akbar Alif",
+    "role": "Chief Coordinator",
+    "image": "/assets/abtahi-akbar-alif.webp",
+    "facebook": "casey.kim",
+    "instagram": "@caseykim_",
+    "whatsapp": "+8801712345607",
+    "phone_number": "+8801712340007",
+    "quote": "In the middle of every difficulty lies opportunity.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 20+ junior members in business case competition preparation"
+      },
+      {
+        "serial": 2,
+        "text": "Spearheaded the club's digital transformation initiative, increasing engagement by 40%"
+      },
+      {
+        "serial": 3,
+        "text": "Represented the club at the National Business Conference and won 2nd place"
+      }
+    ]
+  },
+  {
+    "id": "exec-08",
+    "name": "Arafat Jamal Jim",
+    "role": "Chief of Administration",
+    "image": "/assets/arafat-jamal-jim.webp",
+    "facebook": "ellis.johnson",
+    "instagram": "@ellisjohnson",
+    "whatsapp": "+8801712345615",
+    "phone_number": "+8801712340015",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Developed the club's strategic roadmap for the 2025-26 academic year"
+      },
+      {
+        "serial": 2,
+        "text": "Hosted 8 guest lectures from industry leaders in finance and entrepreneurship"
+      },
+      {
+        "serial": 3,
+        "text": "Led a team of 15 members to organize the annual business summit with 500+ attendees"
+      }
+    ]
+  },
+  {
+    "id": "exec-09",
+    "name": "Raysul Islam Rayhan",
+    "role": "Assistant Chief of Administration",
+    "image": "/assets/raysul-islam-rayhan.webp",
+    "facebook": "drew.martin",
+    "instagram": "@drewmartin",
+    "whatsapp": "+8801712345614",
+    "phone_number": "+8801712340014",
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Managed a budget of $10,000+ for semester events with 95% efficiency"
+      },
+      {
+        "serial": 2,
+        "text": "Launched the first-ever alumni networking event with 60+ attendees"
+      },
+      {
+        "serial": 3,
+        "text": "Developed the club's strategic roadmap for the 2025-26 academic year"
+      }
+    ]
+  },
+  {
+    "id": "exec-10",
+    "name": "Kazi Tahmid Hasan",
+    "role": "Chief of Project & Technology",
+    "image": "/assets/kazi-tahmid-hasan.webp",
+    "facebook": "taylor.lee",
+    "instagram": "@taylorlee",
+    "whatsapp": "+8801712345605",
+    "phone_number": "+8801712340005",
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Developed the club's strategic roadmap for the 2025-26 academic year"
+      },
+      {
+        "serial": 2,
+        "text": "Hosted 8 guest lectures from industry leaders in finance and entrepreneurship"
+      },
+      {
+        "serial": 3,
+        "text": "Led a team of 15 members to organize the annual business summit with 500+ attendees"
+      }
+    ]
+  },
+  {
+    "id": "exec-11",
+    "name": "Tajbir Ahmed Prottoy",
+    "role": "Assistant Chief of Project & Technology",
+    "image": "/assets/tajbir-ahmed-prottoy.webp",
+    "facebook": "riley.park",
+    "instagram": "@rileypark",
+    "whatsapp": "+8801712345608",
+    "phone_number": "+8801712340008",
+    "quote": "Your time is limited, don't waste it living someone else's life.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Represented the club at the National Business Conference and won 2nd place"
+      },
+      {
+        "serial": 2,
+        "text": "Organized a workshop series attended by 200+ students across departments"
+      },
+      {
+        "serial": 3,
+        "text": "Managed a budget of $10,000+ for semester events with 95% efficiency"
+      }
+    ]
+  },
+  {
+    "id": "exec-12",
+    "name": "Sumaiya Alam",
+    "role": "Chief of Finance",
+    "image": "/assets/sumaiya-alam.webp",
+    "facebook": "drew.martin",
+    "instagram": "@drewmartin",
+    "whatsapp": "+8801712345614",
+    "phone_number": "+8801712340014",
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Managed a budget of $10,000+ for semester events with 95% efficiency"
+      },
+      {
+        "serial": 2,
+        "text": "Launched the first-ever alumni networking event with 60+ attendees"
+      },
+      {
+        "serial": 3,
+        "text": "Developed the club's strategic roadmap for the 2025-26 academic year"
+      }
+    ]
+  },
+  {
+    "id": "exec-13",
+    "name": "Arib Mahmud",
+    "role": "Assistant Chief of Finance",
+    "image": "/assets/arib-mahmud.webp",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 20+ junior members in business case competition preparation"
+      },
+      {
+        "serial": 2,
+        "text": "Spearheaded the club's digital transformation initiative, increasing engagement by 40%"
+      },
+      {
+        "serial": 3,
+        "text": "Represented the club at the National Business Conference and won 2nd place"
+      }
+    ]
+  },
+  {
+    "id": "exec-14",
+    "name": "Md. Fahim Kabir",
+    "role": "Chief of Communication & Marketing",
+    "image": "/assets/md-fahim-kabir.webp",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 20+ junior members in business case competition preparation"
+      },
+      {
+        "serial": 2,
+        "text": "Spearheaded the club's digital transformation initiative, increasing engagement by 40%"
+      },
+      {
+        "serial": 3,
+        "text": "Represented the club at the National Business Conference and won 2nd place"
+      }
+    ]
+  },
+  {
+    "id": "exec-15",
+    "name": "Labiba Mamun Afra",
+    "role": "Assistant Chief of Communication & Marketing",
+    "image": "/assets/labiba-mamun-afra.webp",
+    "facebook": "taylor.lee",
+    "instagram": "@taylorlee",
+    "whatsapp": "+8801712345605",
+    "phone_number": "+8801712340005",
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Developed the club's strategic roadmap for the 2025-26 academic year"
+      },
+      {
+        "serial": 2,
+        "text": "Hosted 8 guest lectures from industry leaders in finance and entrepreneurship"
+      },
+      {
+        "serial": 3,
+        "text": "Led a team of 15 members to organize the annual business summit with 500+ attendees"
+      }
+    ]
+  },
+  {
+    "id": "exec-16",
+    "name": "Tashfia Tabassum Maisha",
+    "role": "Assistant Chief of Communication & Marketing",
+    "image": "/assets/tashfia-tabassum-maisha.webp",
+    "facebook": "janedoe",
+    "instagram": "@janedoe_",
+    "whatsapp": "+8801712345602",
+    "phone_number": "+8801712340002",
+    "quote": "The best way to predict the future is to create it.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 20+ junior members in business case competition preparation"
+      },
+      {
+        "serial": 2,
+        "text": "Spearheaded the club's digital transformation initiative, increasing engagement by 40%"
+      },
+      {
+        "serial": 3,
+        "text": "Represented the club at the National Business Conference and won 2nd place"
+      }
+    ]
+  },
+  {
+    "id": "exec-17",
+    "name": "Aurora Zaman",
+    "role": "Chief of Photography",
+    "image": "",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 20+ junior members in business case competition preparation"
+      },
+      {
+        "serial": 2,
+        "text": "Spearheaded the club's digital transformation initiative, increasing engagement by 40%"
+      },
+      {
+        "serial": 3,
+        "text": "Represented the club at the National Business Conference and won 2nd place"
+      }
+    ]
+  },
+  {
+    "id": "exec-18",
+    "name": "Tonmoy Toyon Taj",
+    "role": "Assistant Chief of Photography",
+    "image": "/assets/tonmoy-toyon-taj.webp",
+    "facebook": "johndoe",
+    "instagram": "@johndoe.official",
+    "whatsapp": "+8801712345601",
+    "phone_number": "+8801712340001",
+    "quote": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Led a team of 15 members to organize the annual business summit with 500+ attendees"
+      },
+      {
+        "serial": 2,
+        "text": "Secured partnerships with 3 major corporate sponsors for club events"
+      },
+      {
+        "serial": 3,
+        "text": "Mentored 20+ junior members in business case competition preparation"
+      }
+    ]
+  },
+  {
+    "id": "exec-19",
+    "name": "Karima Chowdhury",
+    "role": "Chief of Creative",
+    "image": "/assets/karima-chowdhury.webp",
+    "facebook": "avery.brown",
+    "instagram": "@averybrown",
+    "whatsapp": "+8801712345610",
+    "phone_number": "+8801712340010",
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Developed the club's strategic roadmap for the 2025-26 academic year"
+      },
+      {
+        "serial": 2,
+        "text": "Hosted 8 guest lectures from industry leaders in finance and entrepreneurship"
+      },
+      {
+        "serial": 3,
+        "text": "Led a team of 15 members to organize the annual business summit with 500+ attendees"
+      }
+    ]
+  },
+  {
+    "id": "exec-20",
+    "name": "Nuzahat Zafran Zara",
+    "role": "Assistant Chief of Creative",
+    "image": "/assets/nuzahat-zafran-zara.webp",
+    "facebook": "ellis.johnson",
+    "instagram": "@ellisjohnson",
+    "whatsapp": "+8801712345615",
+    "phone_number": "+8801712340015",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Developed the club's strategic roadmap for the 2025-26 academic year"
+      },
+      {
+        "serial": 2,
+        "text": "Hosted 8 guest lectures from industry leaders in finance and entrepreneurship"
+      },
+      {
+        "serial": 3,
+        "text": "Led a team of 15 members to organize the annual business summit with 500+ attendees"
+      }
+    ]
+  },
+  {
+    "id": "exec-21",
+    "name": "Tanhaz Amrin",
+    "role": "Assistant Chief of Creative",
+    "image": "/assets/tanhaz-amrin.webp",
+    "facebook": "riley.park",
+    "instagram": "@rileypark",
+    "whatsapp": "+8801712345608",
+    "phone_number": "+8801712340008",
+    "quote": "Your time is limited, don't waste it living someone else's life.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Represented the club at the National Business Conference and won 2nd place"
+      },
+      {
+        "serial": 2,
+        "text": "Organized a workshop series attended by 200+ students across departments"
+      },
+      {
+        "serial": 3,
+        "text": "Managed a budget of $10,000+ for semester events with 95% efficiency"
+      }
+    ]
+  }
+]

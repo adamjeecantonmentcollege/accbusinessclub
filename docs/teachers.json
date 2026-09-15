@@ -1,0 +1,77 @@
+[
+  {
+    "id": "tch-01",
+    "name": "Zerin Ahmed",
+    "role": "Moderator",
+    "image": "/assets/zerin-ahmed.webp",
+    "facebook": "ellis.johnson",
+    "instagram": "@ellisjohnson",
+    "whatsapp": "+8801712345615",
+    "phone_number": "+8801712340015",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Received the 'Excellence in Teaching' award for 3 consecutive years"
+      },
+      {
+        "serial": 2,
+        "text": "Guided students to win inter-university business case competitions"
+      },
+      {
+        "serial": 3,
+        "text": "Supervised 10+ student research projects in business and economics"
+      }
+    ]
+  },
+  {
+    "id": "tch-02",
+    "name": "Tanjila Alam Sony",
+    "role": "Co-Moderator",
+    "image": "/assets/tanjila-alam-sony.webp",
+    "facebook": "janedoe",
+    "instagram": "@janedoe_",
+    "whatsapp": "+8801712345602",
+    "phone_number": "+8801712340002",
+    "quote": "The best way to predict the future is to create it.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Published 5 research papers in peer-reviewed business journals"
+      },
+      {
+        "serial": 2,
+        "text": "Received the 'Excellence in Teaching' award for 3 consecutive years"
+      },
+      {
+        "serial": 3,
+        "text": "Guided students to win inter-university business case competitions"
+      }
+    ]
+  },
+  {
+    "id": "tch-03",
+    "name": "Tanvir Anwar",
+    "role": "Member",
+    "image": "/assets/tanvir-anwar.webp",
+    "facebook": "drew.martin",
+    "instagram": "@drewmartin",
+    "whatsapp": "+8801712345614",
+    "phone_number": "+8801712340014",
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Designed and implemented a new curriculum for entrepreneurial studies"
+      },
+      {
+        "serial": 2,
+        "text": "Published 5 research papers in peer-reviewed business journals"
+      },
+      {
+        "serial": 3,
+        "text": "Received the 'Excellence in Teaching' award for 3 consecutive years"
+      }
+    ]
+  }
+]

@@ -1,1 +1,10 @@
+# Vendored tooling + scratch / agent state
 btw/
+.codegraph/
+.omo/
+.sisyphus/
+temp/
+
+# Crawl & asset archives (not part of the site)
+results/
+miscellaneous/

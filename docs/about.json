@@ -1,0 +1,24 @@
+{
+  "eyebrow": "About",
+  "title": "We're glad you're here.",
+  "subtitle": "Adamjee Cantonment College Business Club — where theory meets practice.",
+  "sections": [
+    {
+      "heading": "Our <span class=\"highlight\">Mission</span>",
+      "body": "ACC Business Club is a student-led organization dedicated to building structural competencies across crucial financial and functional execution spaces. We don't deal in theory — we establish competitive leadership traits through real-world application."
+    },
+    {
+      "heading": "What We <span class=\"highlight\">Build</span>",
+      "body": "From networking sessions with top-tier operators to strategy hackathons and fintech deep-dives, every initiative is designed to equip members with operational mastery. Our members take control of mission-critical directives from day one — constructing sustainable corporate connections, mastering consumer behavior psychology, and analyzing complex systematic game theory loops."
+    },
+    {
+      "heading": "Our <span class=\"highlight\">Pillars</span>",
+      "body": "We operate across six core domains — <strong>Networking</strong>, <strong>Leadership</strong>, <strong>Marketing</strong>, <strong>Finance</strong>, <strong>Strategy</strong>, and <strong>FinTech</strong> — each representing a critical competency for tomorrow's business leaders. Members engage across these verticals through workshops, projects, and competitive events."
+    }
+  ],
+  "stats": [
+    { "number": "21+", "label": "Executive Members" },
+    { "number": "6", "label": "Faculty Mentors" },
+    { "number": "6", "label": "Core Pillars" }
+  ]
+}

@@ -1,0 +1,2127 @@
+[
+  {
+    "id": "9f95737e-d381-4c0f-abd9-cd949e2f9158",
+    "year": "2025",
+    "name": "Tuba Sikder Bulbule",
+    "panel_name": "President",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/tuba-sikder-bulbule.webp",
+    "sort_order": 1,
+    "created_at": "2026-03-06T10:37:23.095Z",
+    "facebook": "janedoe",
+    "instagram": "@janedoe_",
+    "whatsapp": "+8801712345602",
+    "phone_number": "+8801712340002",
+    "quote": "The best way to predict the future is to create it.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Organized the largest fundraising event in club history"
+      },
+      {
+        "serial": 2,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      }
+    ]
+  },
+  {
+    "id": "e946096a-153d-4d1f-8e04-cb14e6ba29b5",
+    "year": "2025",
+    "name": "Nafisa Tabassum Khushi",
+    "panel_name": "Vice President",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/nafisa-tabassum-khushi.webp",
+    "sort_order": 2,
+    "created_at": "2026-03-06T10:37:34.522Z",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "9352aa12-eb87-4d91-bcb7-390a27a6387a",
+    "year": "2025",
+    "name": "Sanjida Jahan",
+    "panel_name": "General Secretary",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/sanjida-jahan.webp",
+    "sort_order": 3,
+    "created_at": "2026-03-06T10:37:51.115Z",
+    "facebook": "johndoe",
+    "instagram": "@johndoe.official",
+    "whatsapp": "+8801712345601",
+    "phone_number": "+8801712340001",
+    "quote": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Served as the club president and led a team of 25 executives"
+      },
+      {
+        "serial": 2,
+        "text": "Organized the largest fundraising event in club history"
+      }
+    ]
+  },
+  {
+    "id": "03db252e-23e5-493d-8b1a-ad4646ce4ac3",
+    "year": "2025",
+    "name": "Tahirah Atia Khan",
+    "panel_name": "Asst. General Secretary",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/tahirah-atia-khan.webp",
+    "sort_order": 4,
+    "created_at": "2026-03-06T10:43:17.339Z",
+    "facebook": "avery.brown",
+    "instagram": "@averybrown",
+    "whatsapp": "+8801712345610",
+    "phone_number": "+8801712340010",
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Won inter-university business case competition as team lead"
+      },
+      {
+        "serial": 2,
+        "text": "Pioneered the club's annual business symposium"
+      }
+    ]
+  },
+  {
+    "id": "33192b9a-fe3f-4940-87d8-1d57e6eff580",
+    "year": "2025",
+    "name": "Sayeed Un Nur Shoaib",
+    "panel_name": "Organising Secretary",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/sayeed-un-nur-shoaib.webp",
+    "sort_order": 5,
+    "created_at": "2026-03-06T10:44:22.079Z",
+    "facebook": "johndoe",
+    "instagram": "@johndoe.official",
+    "whatsapp": "+8801712345601",
+    "phone_number": "+8801712340001",
+    "quote": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Pioneered the club's annual business symposium"
+      },
+      {
+        "serial": 2,
+        "text": "Grew club membership from 50 to 200 within one term"
+      }
+    ]
+  },
+  {
+    "id": "c14aeb91-8d7f-4e5c-8d3f-ba584714ccdc",
+    "year": "2025",
+    "name": "Karim Zaman",
+    "panel_name": "Asst. Organising Secretary",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/karim-zaman.webp",
+    "sort_order": 6,
+    "created_at": "2026-03-06T10:44:42.266Z",
+    "facebook": "alex.jordan",
+    "instagram": "@alexjordan",
+    "whatsapp": "+8801712345604",
+    "phone_number": "+8801712340004",
+    "quote": "Great things in business are never done by one person. They're done by a team.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Established the club's corporate partnership framework"
+      },
+      {
+        "serial": 2,
+        "text": "Won inter-university business case competition as team lead"
+      }
+    ]
+  },
+  {
+    "id": "ff25059d-7673-4eaf-a1b9-a57be99b4b84",
+    "year": "2025",
+    "name": "Md Muqtadir Mahasen",
+    "panel_name": "Chief Coordinator",
+    "linkedin_url": "",
+    "image_url": "/assets/md-muqtadir-mahasen.webp",
+    "sort_order": 7,
+    "created_at": "2026-03-06T10:45:10.061Z",
+    "facebook": "cameron.davis",
+    "instagram": "@camerondavis",
+    "whatsapp": "+8801712345613",
+    "phone_number": "+8801712340013",
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      },
+      {
+        "serial": 2,
+        "text": "Represented the university at the National Business Summit"
+      }
+    ]
+  },
+  {
+    "id": "bae1111c-13b0-454b-b8c9-3bf7cdd4b9e2",
+    "year": "2025",
+    "name": "Farzia Muhtamina Ikra",
+    "panel_name": "Chief of Administration",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/farzia-muhtamina-ikra.webp",
+    "sort_order": 8,
+    "created_at": "2026-03-06T10:45:34.613Z",
+    "facebook": "drew.martin",
+    "instagram": "@drewmartin",
+    "whatsapp": "+8801712345614",
+    "phone_number": "+8801712340014",
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Represented the university at the National Business Summit"
+      },
+      {
+        "serial": 2,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      }
+    ]
+  },
+  {
+    "id": "a2403594-4ced-4ee0-84c8-32e2de6d8952",
+    "year": "2025",
+    "name": "Saad Ibna Mannan",
+    "panel_name": "Asst. Chief of Administration",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/saad-ibna-mannan.webp",
+    "sort_order": 9,
+    "created_at": "2026-03-06T10:46:01.199Z",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "3c3b44df-0512-4e7e-a4ea-54628b492da6",
+    "year": "2025",
+    "name": "Tasniha Akter Linta",
+    "panel_name": "Chief of Finance",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/tasniha-akter-linta.webp",
+    "sort_order": 10,
+    "created_at": "2026-03-06T10:46:38.049Z",
+    "facebook": "ellis.johnson",
+    "instagram": "@ellisjohnson",
+    "whatsapp": "+8801712345615",
+    "phone_number": "+8801712340015",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      },
+      {
+        "serial": 2,
+        "text": "Served as the club president and led a team of 25 executives"
+      }
+    ]
+  },
+  {
+    "id": "099610c0-10f4-405d-a5ff-d2b4397a34a9",
+    "year": "2025",
+    "name": "Abu Sobain Rifat",
+    "panel_name": "Asst. Chief of Finance",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/abu-sobain-rifat.webp",
+    "sort_order": 11,
+    "created_at": "2026-03-06T10:47:00.701Z",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "7c18f7c4-a114-4e47-b857-2ca22a61d60a",
+    "year": "2025",
+    "name": "Md Mojahidul Islam Mafi",
+    "panel_name": "Chief of IT",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/md-mojahidul-islam-mafi.webp",
+    "sort_order": 12,
+    "created_at": "2026-03-06T10:38:36.952Z",
+    "facebook": "quinn.taylor",
+    "instagram": "@quinntaylor",
+    "whatsapp": "+8801712345611",
+    "phone_number": "+8801712340011",
+    "quote": "Excellence is not a skill. It is an attitude.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Pioneered the club's annual business symposium"
+      },
+      {
+        "serial": 2,
+        "text": "Grew club membership from 50 to 200 within one term"
+      }
+    ]
+  },
+  {
+    "id": "1cdf9bdc-bcb2-49c5-b466-7cf65213126b",
+    "year": "2025",
+    "name": "Aniqa Ibnat Riya",
+    "panel_name": "Asst. Chief of IT",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/aniqa-ibnat-riya.webp",
+    "sort_order": 13,
+    "created_at": "2026-03-06T10:47:39.522Z",
+    "facebook": "ellis.johnson",
+    "instagram": "@ellisjohnson",
+    "whatsapp": "+8801712345615",
+    "phone_number": "+8801712340015",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      },
+      {
+        "serial": 2,
+        "text": "Served as the club president and led a team of 25 executives"
+      }
+    ]
+  },
+  {
+    "id": "09e8f7af-fea9-4920-805c-11f84a089b7b",
+    "year": "2025",
+    "name": "Fariha Yeasmin",
+    "panel_name": "Chief of Creative",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/fariha-yeasmin.webp",
+    "sort_order": 14,
+    "created_at": "2026-03-06T10:39:25.584Z",
+    "facebook": "drew.martin",
+    "instagram": "@drewmartin",
+    "whatsapp": "+8801712345614",
+    "phone_number": "+8801712340014",
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Established the club's corporate partnership framework"
+      },
+      {
+        "serial": 2,
+        "text": "Won inter-university business case competition as team lead"
+      }
+    ]
+  },
+  {
+    "id": "59f368bd-f38e-490a-a3e9-b0cd1bc4fd01",
+    "year": "2025",
+    "name": "Md Jobayer Hossain Chowdhury",
+    "panel_name": "Asst. Chief of Creative",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/md-jobayer-hossain-chowdhury.webp",
+    "sort_order": 15,
+    "created_at": "2026-03-06T10:40:20.003Z",
+    "facebook": "johndoe",
+    "instagram": "@johndoe.official",
+    "whatsapp": "+8801712345601",
+    "phone_number": "+8801712340001",
+    "quote": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Pioneered the club's annual business symposium"
+      },
+      {
+        "serial": 2,
+        "text": "Grew club membership from 50 to 200 within one term"
+      }
+    ]
+  },
+  {
+    "id": "d5e0dc66-b6ce-4d8c-809c-f817d9e657ca",
+    "year": "2025",
+    "name": "Hafsa Islam Ohi",
+    "panel_name": "Asst. Chief of Creative",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/hafsa-islam-ohi.webp",
+    "sort_order": 16,
+    "created_at": "2026-03-06T10:48:34.856Z",
+    "facebook": "alex.jordan",
+    "instagram": "@alexjordan",
+    "whatsapp": "+8801712345604",
+    "phone_number": "+8801712340004",
+    "quote": "Great things in business are never done by one person. They're done by a team.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Established the club's corporate partnership framework"
+      },
+      {
+        "serial": 2,
+        "text": "Won inter-university business case competition as team lead"
+      }
+    ]
+  },
+  {
+    "id": "0b8a331b-1503-40f1-9b62-41d02c6b6ddf",
+    "year": "2025",
+    "name": "Jubayer Rahman",
+    "panel_name": "Chief of Photography",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/jubayer-rahman.webp",
+    "sort_order": 17,
+    "created_at": "2026-03-06T10:49:29.406Z",
+    "facebook": "casey.kim",
+    "instagram": "@caseykim_",
+    "whatsapp": "+8801712345607",
+    "phone_number": "+8801712340007",
+    "quote": "In the middle of every difficulty lies opportunity.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Organized the largest fundraising event in club history"
+      },
+      {
+        "serial": 2,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      }
+    ]
+  },
+  {
+    "id": "1831128f-c981-4c1f-a21e-feb43d4c5c6b",
+    "year": "2025",
+    "name": "Lutfia Rahaman",
+    "panel_name": "Asst. Chief of Photography",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/lutfia-rahaman.webp",
+    "sort_order": 18,
+    "created_at": "2026-03-06T10:56:16.338Z",
+    "facebook": "avery.brown",
+    "instagram": "@averybrown",
+    "whatsapp": "+8801712345610",
+    "phone_number": "+8801712340010",
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      },
+      {
+        "serial": 2,
+        "text": "Served as the club president and led a team of 25 executives"
+      }
+    ]
+  },
+  {
+    "id": "9024211a-e368-43f9-8677-d0b42a600f76",
+    "year": "2025",
+    "name": "Md Rohan Mia",
+    "panel_name": "Chief of Communication and Marketing",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/md-rohan-mia.webp",
+    "sort_order": 19,
+    "created_at": "2026-03-06T10:40:47.855Z",
+    "facebook": "morgan.chen",
+    "instagram": "@morganchen",
+    "whatsapp": "+8801712345606",
+    "phone_number": "+8801712340006",
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Served as the club president and led a team of 25 executives"
+      },
+      {
+        "serial": 2,
+        "text": "Organized the largest fundraising event in club history"
+      }
+    ]
+  },
+  {
+    "id": "0b9e151d-2f21-4dea-961b-25186b006cf0",
+    "year": "2025",
+    "name": "Samrat Hasan Apurbo",
+    "panel_name": "Asst. Chief of Communication and Marketing",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/samrat-hasan-apurbo.webp",
+    "sort_order": 20,
+    "created_at": "2026-03-06T10:41:23.681Z",
+    "facebook": "taylor.lee",
+    "instagram": "@taylorlee",
+    "whatsapp": "+8801712345605",
+    "phone_number": "+8801712340005",
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Won inter-university business case competition as team lead"
+      },
+      {
+        "serial": 2,
+        "text": "Pioneered the club's annual business symposium"
+      }
+    ]
+  },
+  {
+    "id": "e0e173e1-d65a-4d85-b91e-0436660e44e9",
+    "year": "2025",
+    "name": "Miftahul Zannat",
+    "panel_name": "Executive",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/miftahul-zannat.webp",
+    "sort_order": 21,
+    "created_at": "2026-03-06T10:56:43.959Z",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "88a22cbd-04f9-44b1-a2f4-5cd321b661b7",
+    "year": "2025",
+    "name": "Md Mahfuzur Rahman",
+    "panel_name": "Executive",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/md-mahfuzur-rahman.webp",
+    "sort_order": 22,
+    "created_at": "2026-03-06T10:41:43.765Z",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "6fdaabd0-0c8b-4b8e-acdc-248448215829",
+    "year": "2025",
+    "name": "Abrar Maisha",
+    "panel_name": "Executive",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/abrar-maisha.webp",
+    "sort_order": 23,
+    "created_at": "2026-03-06T10:56:27.656Z",
+    "facebook": "jordan.smith",
+    "instagram": "@jordan.smith",
+    "whatsapp": "+8801712345609",
+    "phone_number": "+8801712340009",
+    "quote": "Stay hungry, stay foolish.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Established the club's corporate partnership framework"
+      },
+      {
+        "serial": 2,
+        "text": "Won inter-university business case competition as team lead"
+      }
+    ]
+  },
+  {
+    "id": "257635bd-c645-40e4-8487-f4083a0d07b7",
+    "year": "2025",
+    "name": "Musfique Pritom",
+    "panel_name": "Executive",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/musfique-pritom.webp",
+    "sort_order": 24,
+    "created_at": "2026-03-06T10:42:09.837Z",
+    "facebook": "sam.wilson",
+    "instagram": "@samwilson_",
+    "whatsapp": "+8801712345603",
+    "phone_number": "+8801712340003",
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      },
+      {
+        "serial": 2,
+        "text": "Established the club's corporate partnership framework"
+      }
+    ]
+  },
+  {
+    "id": "90ecd577-ef57-4b72-9efa-4b013d69278c",
+    "year": "2025",
+    "name": "Md Farhan Alam Shuvo",
+    "panel_name": "Executive",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/md-farhan-alam-shuvo.webp",
+    "sort_order": 25,
+    "created_at": "2026-03-06T10:42:43.459Z",
+    "facebook": "casey.kim",
+    "instagram": "@caseykim_",
+    "whatsapp": "+8801712345607",
+    "phone_number": "+8801712340007",
+    "quote": "In the middle of every difficulty lies opportunity.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Organized the largest fundraising event in club history"
+      },
+      {
+        "serial": 2,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      }
+    ]
+  },
+  {
+    "id": "4620e769-2dee-4ab9-a9f0-e0cdc4114516",
+    "year": "2024",
+    "name": "Miskatun Shikder Munira",
+    "panel_name": "President",
+    "linkedin_url": "https://bd.linkedin.com/in/miskatun-munira-shikder-28b9b92a4",
+    "image_url": "/assets/images/alumni/miskatun-shikder-munira.webp",
+    "sort_order": 1,
+    "created_at": "2026-03-05T13:44:05.551Z",
+    "facebook": "jordan.smith",
+    "instagram": "@jordan.smith",
+    "whatsapp": "+8801712345609",
+    "phone_number": "+8801712340009",
+    "quote": "Stay hungry, stay foolish.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Represented the university at the National Business Summit"
+      },
+      {
+        "serial": 2,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      }
+    ]
+  },
+  {
+    "id": "6f05dbf3-45d2-4590-afe6-a40bccc9ac12\n",
+    "year": "2024",
+    "name": "Sherana Shaif Liana",
+    "panel_name": "Vice President ",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/sherana-shaif-liana.webp",
+    "sort_order": 2,
+    "created_at": "2026-03-05T13:45:56.875Z",
+    "facebook": "riley.park",
+    "instagram": "@rileypark",
+    "whatsapp": "+8801712345608",
+    "phone_number": "+8801712340008",
+    "quote": "Your time is limited, don't waste it living someone else's life.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      },
+      {
+        "serial": 2,
+        "text": "Established the club's corporate partnership framework"
+      }
+    ]
+  },
+  {
+    "id": "2be23795-27cf-4d5f-882e-c95c3f66eeef\n",
+    "year": "2024",
+    "name": "Toufiqul Ali Zim",
+    "panel_name": "General Secretary",
+    "linkedin_url": "https://bd.linkedin.com/in/toufiqul-ali-zim-4a349a3a5",
+    "image_url": "/assets/images/alumni/toufiqul-ali-zim.webp",
+    "sort_order": 3,
+    "created_at": "2026-03-05T13:48:04.084Z",
+    "facebook": "taylor.lee",
+    "instagram": "@taylorlee",
+    "whatsapp": "+8801712345605",
+    "phone_number": "+8801712340005",
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      },
+      {
+        "serial": 2,
+        "text": "Served as the club president and led a team of 25 executives"
+      }
+    ]
+  },
+  {
+    "id": "05945nujd-eijiu-ded",
+    "year": "2024",
+    "name": "Md Mominuzzaman Khadem",
+    "panel_name": "Asst. General Secretary",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/md-mominuzzaman-khadem.webp",
+    "sort_order": 4,
+    "created_at": "2026-03-05T14:03:38.366Z",
+    "facebook": "ellis.johnson",
+    "instagram": "@ellisjohnson",
+    "whatsapp": "+8801712345615",
+    "phone_number": "+8801712340015",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      },
+      {
+        "serial": 2,
+        "text": "Served as the club president and led a team of 25 executives"
+      }
+    ]
+  },
+  {
+    "id": "hshakhbdfuef-wekbf6595",
+    "year": "2024",
+    "name": "Labib Marzuq",
+    "panel_name": "Organizing Secretary",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/labib-marzuq.webp",
+    "sort_order": 5,
+    "created_at": "2026-03-05T14:16:54.125Z",
+    "facebook": "avery.brown",
+    "instagram": "@averybrown",
+    "whatsapp": "+8801712345610",
+    "phone_number": "+8801712340010",
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Won inter-university business case competition as team lead"
+      },
+      {
+        "serial": 2,
+        "text": "Pioneered the club's annual business symposium"
+      }
+    ]
+  },
+  {
+    "id": "uedyg73gf89845564-wjfhy3gef",
+    "year": "2024",
+    "name": "Maisha Jarin Khadiza",
+    "panel_name": "Asst. Organising Secretary",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/maisha-jarin-khadiza.webp",
+    "sort_order": 6,
+    "created_at": "2026-03-05T14:17:51.564Z",
+    "facebook": "johndoe",
+    "instagram": "@johndoe.official",
+    "whatsapp": "+8801712345601",
+    "phone_number": "+8801712340001",
+    "quote": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Pioneered the club's annual business symposium"
+      },
+      {
+        "serial": 2,
+        "text": "Grew club membership from 50 to 200 within one term"
+      }
+    ]
+  },
+  {
+    "id": "hiuhiu-jaheejk-6295495",
+    "year": "2024",
+    "name": "Rifat Bin Abdullah",
+    "panel_name": "Co-Ordinator",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/rifat-bin-abdullah.webp",
+    "sort_order": 7,
+    "created_at": "2026-03-05T14:09:15.962Z",
+    "facebook": "quinn.taylor",
+    "instagram": "@quinntaylor",
+    "whatsapp": "+8801712345611",
+    "phone_number": "+8801712340011",
+    "quote": "Excellence is not a skill. It is an attitude.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Served as the club president and led a team of 25 executives"
+      },
+      {
+        "serial": 2,
+        "text": "Organized the largest fundraising event in club history"
+      }
+    ]
+  },
+  {
+    "id": "hsywbndg62525",
+    "year": "2024",
+    "name": "Nishat Payel Areen",
+    "panel_name": "Chief Of Administration",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/nishat-payel-areen.webp",
+    "sort_order": 8,
+    "created_at": "2026-03-05T14:20:28.511Z",
+    "facebook": "drew.martin",
+    "instagram": "@drewmartin",
+    "whatsapp": "+8801712345614",
+    "phone_number": "+8801712340014",
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Established the club's corporate partnership framework"
+      },
+      {
+        "serial": 2,
+        "text": "Won inter-university business case competition as team lead"
+      }
+    ]
+  },
+  {
+    "id": "02a44176-22ff-45fa-82ab-aa05171",
+    "year": "2024",
+    "name": "Md Pavel Ahmed ",
+    "panel_name": "Chief Of Project ",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/md-pavel-ahmed.webp",
+    "sort_order": 9,
+    "created_at": "2026-03-05T14:00:49.704Z",
+    "facebook": "quinn.taylor",
+    "instagram": "@quinntaylor",
+    "whatsapp": "+8801712345611",
+    "phone_number": "+8801712340011",
+    "quote": "Excellence is not a skill. It is an attitude.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Served as the club president and led a team of 25 executives"
+      },
+      {
+        "serial": 2,
+        "text": "Organized the largest fundraising event in club history"
+      }
+    ]
+  },
+  {
+    "id": "uhdueh-edneud-ed565",
+    "year": "2024",
+    "name": "Mehedi Hasan Shanto",
+    "panel_name": "Chief Of Finance",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/mehedi-hasan-shanto.webp",
+    "sort_order": 10,
+    "created_at": "2026-03-05T14:02:29.005Z",
+    "facebook": "quinn.taylor",
+    "instagram": "@quinntaylor",
+    "whatsapp": "+8801712345611",
+    "phone_number": "+8801712340011",
+    "quote": "Excellence is not a skill. It is an attitude.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Served as the club president and led a team of 25 executives"
+      },
+      {
+        "serial": 2,
+        "text": "Organized the largest fundraising event in club history"
+      }
+    ]
+  },
+  {
+    "id": "a0de71c1-799b-4ad1-a685-10fc503",
+    "year": "2024",
+    "name": "Zawad Billah Khan ",
+    "panel_name": "Chief Of Communication & Marketing",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/zawad-billah-khan.webp",
+    "sort_order": 11,
+    "created_at": "2026-03-05T13:55:51.828Z",
+    "facebook": "cameron.davis",
+    "instagram": "@camerondavis",
+    "whatsapp": "+8801712345613",
+    "phone_number": "+8801712340013",
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      },
+      {
+        "serial": 2,
+        "text": "Represented the university at the National Business Summit"
+      }
+    ]
+  },
+  {
+    "id": "uhdhyeg-edjbedb",
+    "year": "2024",
+    "name": "Nurmita Afrin",
+    "panel_name": "Chief Of PR & Marketing ",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/nurmita-afrin.webp",
+    "sort_order": 12,
+    "created_at": "2026-03-05T14:05:51.018Z",
+    "facebook": "riley.park",
+    "instagram": "@rileypark",
+    "whatsapp": "+8801712345608",
+    "phone_number": "+8801712340008",
+    "quote": "Your time is limited, don't waste it living someone else's life.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      },
+      {
+        "serial": 2,
+        "text": "Established the club's corporate partnership framework"
+      }
+    ]
+  },
+  {
+    "id": "5ab9b093-bb61-45d1-a5fa-e2b424c8c5e1",
+    "year": "2024",
+    "name": "Mysha Afrin Tisha ",
+    "panel_name": "Asst. Chief Of Finance",
+    "linkedin_url": "https://www.linkedin.com/in/afreen-afreen-a4525b3b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "image_url": "/assets/images/alumni/mysha-afrin-tisha.webp",
+    "sort_order": 13,
+    "created_at": "2026-03-05T13:41:17.001Z",
+    "facebook": "morgan.chen",
+    "instagram": "@morganchen",
+    "whatsapp": "+8801712345606",
+    "phone_number": "+8801712340006",
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Pioneered the club's annual business symposium"
+      },
+      {
+        "serial": 2,
+        "text": "Grew club membership from 50 to 200 within one term"
+      }
+    ]
+  },
+  {
+    "id": "44e40843-9ba0-4a2d-a06b-9d3398c",
+    "year": "2024",
+    "name": "Md Asim Dewan",
+    "panel_name": "Asst. Chief Of Photography",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/md-asim-dewan.webp",
+    "sort_order": 14,
+    "created_at": "2026-03-05T13:49:48.046Z",
+    "facebook": "casey.kim",
+    "instagram": "@caseykim_",
+    "whatsapp": "+8801712345607",
+    "phone_number": "+8801712340007",
+    "quote": "In the middle of every difficulty lies opportunity.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "uwtwb365343g-sdjbhdb67",
+    "year": "2024",
+    "name": "Samia Sadek Ilma",
+    "panel_name": "Asst. Chief Of IT",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/samia-sadek-ilma.webp",
+    "sort_order": 15,
+    "created_at": "2026-03-05T14:18:51.047Z",
+    "facebook": "casey.kim",
+    "instagram": "@caseykim_",
+    "whatsapp": "+8801712345607",
+    "phone_number": "+8801712340007",
+    "quote": "In the middle of every difficulty lies opportunity.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "hagsyebe-djdhe-6595",
+    "year": "2024",
+    "name": "Fawzia Afroj",
+    "panel_name": "Executive",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/fawzia-afroj.webp",
+    "sort_order": 16,
+    "created_at": "2026-03-05T14:12:16.249Z",
+    "facebook": "alex.jordan",
+    "instagram": "@alexjordan",
+    "whatsapp": "+8801712345604",
+    "phone_number": "+8801712340004",
+    "quote": "Great things in business are never done by one person. They're done by a team.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Represented the university at the National Business Summit"
+      },
+      {
+        "serial": 2,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      }
+    ]
+  },
+  {
+    "id": "hagstwb du494-dghdg332",
+    "year": "2024",
+    "name": "Nila",
+    "panel_name": "Executive ",
+    "linkedin_url": null,
+    "image_url": "/assets/images/alumni/nila.webp",
+    "sort_order": 17,
+    "created_at": "2026-03-05T14:13:12.538Z",
+    "facebook": "alex.jordan",
+    "instagram": "@alexjordan",
+    "whatsapp": "+8801712345604",
+    "phone_number": "+8801712340004",
+    "quote": "Great things in business are never done by one person. They're done by a team.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Represented the university at the National Business Summit"
+      },
+      {
+        "serial": 2,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      }
+    ]
+  },
+  {
+    "id": "4e0188f1-c836-4774-8ab5-a7afd71523fb",
+    "year": "2023",
+    "name": "Danesh Rafin",
+    "panel_name": "President",
+    "linkedin_url": "https://www.linkedin.com/in/danesh-rafin-343618236/",
+    "image_url": "/assets/images/alumni/danesh-rafin.webp",
+    "sort_order": 1,
+    "created_at": "2026-04-08T21:41:25.551Z",
+    "facebook": "janedoe",
+    "instagram": "@janedoe_",
+    "whatsapp": "+8801712345602",
+    "phone_number": "+8801712340002",
+    "quote": "The best way to predict the future is to create it.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Organized the largest fundraising event in club history"
+      },
+      {
+        "serial": 2,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      }
+    ]
+  },
+  {
+    "id": "00c0f52f-8cc2-4ce1-9761-b8325edbf2f6",
+    "year": "2023",
+    "name": "Nurfat Jahan Drishso",
+    "panel_name": "Vice President",
+    "linkedin_url": "https://www.linkedin.com/in/nurfat-jahan-drishso-909418383/",
+    "image_url": "/assets/images/alumni/nurfat-jahan-drishso.webp",
+    "sort_order": 2,
+    "created_at": "2026-04-15T17:44:52.333Z",
+    "facebook": "drew.martin",
+    "instagram": "@drewmartin",
+    "whatsapp": "+8801712345614",
+    "phone_number": "+8801712340014",
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Represented the university at the National Business Summit"
+      },
+      {
+        "serial": 2,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      }
+    ]
+  },
+  {
+    "id": "6bf48c18-3f52-415a-a2a6-5facc88f3104",
+    "year": "2023",
+    "name": "Mihrun Ishrat",
+    "panel_name": "General Secretary",
+    "linkedin_url": "https://www.linkedin.com/in/mihrun-ishrat-bb9817311/",
+    "image_url": "/assets/images/alumni/mihrun-ishrat.webp",
+    "sort_order": 3,
+    "created_at": "2026-04-15T17:45:42.234Z",
+    "facebook": "casey.kim",
+    "instagram": "@caseykim_",
+    "whatsapp": "+8801712345607",
+    "phone_number": "+8801712340007",
+    "quote": "In the middle of every difficulty lies opportunity.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "604cdfe4-12d1-4eb4-b4c9-40b25021a018",
+    "year": "2023",
+    "name": "Sryza Sakil Megh",
+    "panel_name": "Assistant General Secretary",
+    "linkedin_url": "https://www.linkedin.com/in/sryza-sakil-megh-06b6522a4/",
+    "image_url": "/assets/images/alumni/sryza-sakil-megh.webp",
+    "sort_order": 4,
+    "created_at": "2026-04-15T17:45:59.512Z",
+    "facebook": "sam.wilson",
+    "instagram": "@samwilson_",
+    "whatsapp": "+8801712345603",
+    "phone_number": "+8801712340003",
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      },
+      {
+        "serial": 2,
+        "text": "Established the club's corporate partnership framework"
+      }
+    ]
+  },
+  {
+    "id": "6dcd257a-05f4-41b5-af1c-1ab7b7326ca3",
+    "year": "2023",
+    "name": "Md Seefath E Karim Saad",
+    "panel_name": "Organizing Secretary",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/md-seefath-e-karim-saad.webp",
+    "sort_order": 5,
+    "created_at": "2026-04-15T17:46:15.176Z",
+    "facebook": "sam.wilson",
+    "instagram": "@samwilson_",
+    "whatsapp": "+8801712345603",
+    "phone_number": "+8801712340003",
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      },
+      {
+        "serial": 2,
+        "text": "Represented the university at the National Business Summit"
+      }
+    ]
+  },
+  {
+    "id": "be185341-bfa6-4541-8011-4f6df66d756c",
+    "year": "2023",
+    "name": "Mahdi Ul Islam",
+    "panel_name": "Chief Co-ordinator",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/mahdi-ul-islam.webp",
+    "sort_order": 6,
+    "created_at": "2026-04-15T17:46:51.698Z",
+    "facebook": "drew.martin",
+    "instagram": "@drewmartin",
+    "whatsapp": "+8801712345614",
+    "phone_number": "+8801712340014",
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Represented the university at the National Business Summit"
+      },
+      {
+        "serial": 2,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      }
+    ]
+  },
+  {
+    "id": "7fa2c69c-14ea-4b6d-96b9-bf388a69f4df",
+    "year": "2023",
+    "name": "Mohona Rahman",
+    "panel_name": "Chief Executive",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/mohona-rahman.webp",
+    "sort_order": 7,
+    "created_at": "2026-04-15T17:47:07.844Z",
+    "facebook": "ellis.johnson",
+    "instagram": "@ellisjohnson",
+    "whatsapp": "+8801712345615",
+    "phone_number": "+8801712340015",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      },
+      {
+        "serial": 2,
+        "text": "Served as the club president and led a team of 25 executives"
+      }
+    ]
+  },
+  {
+    "id": "ca9e7d03-e9e9-4597-bd36-3c49b63c9e3c",
+    "year": "2023",
+    "name": "Syeda Tasfia Haque",
+    "panel_name": "Chief of Administration",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/syeda-tasfia-haque.webp",
+    "sort_order": 8,
+    "created_at": "2026-04-15T17:48:37.862Z",
+    "facebook": "sam.wilson",
+    "instagram": "@samwilson_",
+    "whatsapp": "+8801712345603",
+    "phone_number": "+8801712340003",
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      },
+      {
+        "serial": 2,
+        "text": "Established the club's corporate partnership framework"
+      }
+    ]
+  },
+  {
+    "id": "dd9ec99f-17bc-4365-bf73-dc3d9130108d",
+    "year": "2023",
+    "name": " Mysha Siddika",
+    "panel_name": "Assistant Chief of Administration",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/mysha-siddika.webp",
+    "sort_order": 9,
+    "created_at": "2026-04-15T17:49:04.162Z",
+    "facebook": "janedoe",
+    "instagram": "@janedoe_",
+    "whatsapp": "+8801712345602",
+    "phone_number": "+8801712340002",
+    "quote": "The best way to predict the future is to create it.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Organized the largest fundraising event in club history"
+      },
+      {
+        "serial": 2,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      }
+    ]
+  },
+  {
+    "id": "3b80f50e-bf1f-4e94-b88e-59f57cb93c31",
+    "year": "2023",
+    "name": "Ittefath Shams",
+    "panel_name": "Chief of Project and Technology",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/ittefath-shams.webp",
+    "sort_order": 10,
+    "created_at": "2026-04-15T17:49:15.466Z",
+    "facebook": "alex.jordan",
+    "instagram": "@alexjordan",
+    "whatsapp": "+8801712345604",
+    "phone_number": "+8801712340004",
+    "quote": "Great things in business are never done by one person. They're done by a team.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Established the club's corporate partnership framework"
+      },
+      {
+        "serial": 2,
+        "text": "Won inter-university business case competition as team lead"
+      }
+    ]
+  },
+  {
+    "id": "1e5259c6-b23c-4326-89eb-c00c51fc1557",
+    "year": "2023",
+    "name": "Nusrat Zaman",
+    "panel_name": "Chief of Finance",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/nusrat-zaman.webp",
+    "sort_order": 11,
+    "created_at": "2026-04-15T17:53:10.773Z",
+    "facebook": "morgan.chen",
+    "instagram": "@morganchen",
+    "whatsapp": "+8801712345606",
+    "phone_number": "+8801712340006",
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Served as the club president and led a team of 25 executives"
+      },
+      {
+        "serial": 2,
+        "text": "Organized the largest fundraising event in club history"
+      }
+    ]
+  },
+  {
+    "id": "3f5f0cab-cad3-4cfd-953b-97c0262f95c6",
+    "year": "2023",
+    "name": "Rabib Huda",
+    "panel_name": "Chief of Photography",
+    "linkedin_url": "https://www.linkedin.com/in/rabib-huda4157/",
+    "image_url": "/assets/images/alumni/rabib-huda.webp",
+    "sort_order": 12,
+    "created_at": "2026-04-15T17:53:36.072Z",
+    "facebook": "janedoe",
+    "instagram": "@janedoe_",
+    "whatsapp": "+8801712345602",
+    "phone_number": "+8801712340002",
+    "quote": "The best way to predict the future is to create it.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "3273da05-e726-4939-8b7d-d59a838eaa1e",
+    "year": "2023",
+    "name": "Simran Amin",
+    "panel_name": "Assistant Chief of Photography",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/simran-amin.webp",
+    "sort_order": 13,
+    "created_at": "2026-04-15T17:53:53.475Z",
+    "facebook": "riley.park",
+    "instagram": "@rileypark",
+    "whatsapp": "+8801712345608",
+    "phone_number": "+8801712340008",
+    "quote": "Your time is limited, don't waste it living someone else's life.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      },
+      {
+        "serial": 2,
+        "text": "Represented the university at the National Business Summit"
+      }
+    ]
+  },
+  {
+    "id": "1fdf4bcd-55b4-4c2f-a467-fc801cf10dcc",
+    "year": "2023",
+    "name": "Naime Ahmed",
+    "panel_name": "Assistant Chief of Photography",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/naime-ahmed.webp",
+    "sort_order": 14,
+    "created_at": "2026-04-15T17:54:08.295Z",
+    "facebook": "ellis.johnson",
+    "instagram": "@ellisjohnson",
+    "whatsapp": "+8801712345615",
+    "phone_number": "+8801712340015",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      },
+      {
+        "serial": 2,
+        "text": "Served as the club president and led a team of 25 executives"
+      }
+    ]
+  },
+  {
+    "id": "59c709e8-0361-4d85-8468-1521abdca4ef",
+    "year": "2023",
+    "name": "Sufian Sahad Ifty",
+    "panel_name": "Chief of Communication and Marketing",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/sufian-sahad-ifty.webp",
+    "sort_order": 15,
+    "created_at": "2026-04-15T17:54:35.538Z",
+    "facebook": "cameron.davis",
+    "instagram": "@camerondavis",
+    "whatsapp": "+8801712345613",
+    "phone_number": "+8801712340013",
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      },
+      {
+        "serial": 2,
+        "text": "Represented the university at the National Business Summit"
+      }
+    ]
+  },
+  {
+    "id": "bf7ff42c-140c-47ec-b99e-59f0b65a7d6f",
+    "year": "2023",
+    "name": "Tashfia Sadmani",
+    "panel_name": "Chief of Communication and Marketing",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/tashfia-sadmani.webp",
+    "sort_order": 16,
+    "created_at": "2026-04-15T17:55:07.366Z",
+    "facebook": "johndoe",
+    "instagram": "@johndoe.official",
+    "whatsapp": "+8801712345601",
+    "phone_number": "+8801712340001",
+    "quote": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Pioneered the club's annual business symposium"
+      },
+      {
+        "serial": 2,
+        "text": "Grew club membership from 50 to 200 within one term"
+      }
+    ]
+  },
+  {
+    "id": "da33f688-b9fd-4553-9b8d-d292abeb0dd7",
+    "year": "2023",
+    "name": "Shahriar Shawon",
+    "panel_name": "Assistant Chief of Communication and Marketing",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/shahriar-shawon.webp",
+    "sort_order": 17,
+    "created_at": "2026-04-15T17:55:14.353Z",
+    "facebook": "riley.park",
+    "instagram": "@rileypark",
+    "whatsapp": "+8801712345608",
+    "phone_number": "+8801712340008",
+    "quote": "Your time is limited, don't waste it living someone else's life.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      },
+      {
+        "serial": 2,
+        "text": "Established the club's corporate partnership framework"
+      }
+    ]
+  },
+  {
+    "id": "2f360f42-ca0c-4ec3-98c2-84e7e8b4c6ed",
+    "year": "2023",
+    "name": "Shohidul Islam Saikat",
+    "panel_name": "Assistant Chief of Communication and Marketing",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/shohidul-islam-saikat.webp",
+    "sort_order": 18,
+    "created_at": "2026-04-15T17:55:25.857Z",
+    "facebook": "avery.brown",
+    "instagram": "@averybrown",
+    "whatsapp": "+8801712345610",
+    "phone_number": "+8801712340010",
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      },
+      {
+        "serial": 2,
+        "text": "Served as the club president and led a team of 25 executives"
+      }
+    ]
+  },
+  {
+    "id": "0e8d7f9d-d0bb-4906-9460-113327df5c4f",
+    "year": "2023",
+    "name": "Ishrat Jahan",
+    "panel_name": "Chief of Creative",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/ishrat-jahan.webp",
+    "sort_order": 19,
+    "created_at": "2026-04-15T17:55:36.154Z",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Organized the largest fundraising event in club history"
+      },
+      {
+        "serial": 2,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      }
+    ]
+  },
+  {
+    "id": "0262d793-5438-4fe6-80c6-e64cbab54ec9",
+    "year": "2023",
+    "name": "Nayla Ruhana ",
+    "panel_name": "Assistant Chief of Creative",
+    "linkedin_url": "https://www.linkedin.com/in/ruhana-nayla-266079236/",
+    "image_url": "/assets/images/alumni/nayla-ruhana.webp",
+    "sort_order": 20,
+    "created_at": "2026-04-15T17:55:52.384Z",
+    "facebook": "alex.jordan",
+    "instagram": "@alexjordan",
+    "whatsapp": "+8801712345604",
+    "phone_number": "+8801712340004",
+    "quote": "Great things in business are never done by one person. They're done by a team.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Represented the university at the National Business Summit"
+      },
+      {
+        "serial": 2,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      }
+    ]
+  },
+  {
+    "id": "32ae8133-4db1-453e-b353-ccec690f4188",
+    "year": "2023",
+    "name": "Sadrul Kabir Sifat",
+    "panel_name": "Executive member",
+    "linkedin_url": "https://www.linkedin.com/in/msksifat/",
+    "image_url": "/assets/images/alumni/sadrul-kabir-sifat.webp",
+    "sort_order": 21,
+    "created_at": "2026-04-15T17:56:13.013Z",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Organized the largest fundraising event in club history"
+      },
+      {
+        "serial": 2,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      }
+    ]
+  },
+  {
+    "id": "9ef51f8f-8d58-40ab-93e8-6bdfe64b4840",
+    "year": "2023",
+    "name": "Ragib Tasnim",
+    "panel_name": "Executive member",
+    "linkedin_url": "https://www.linkedin.com/in/ragib-tasnim/",
+    "image_url": "/assets/images/alumni/ragib-tasnim.webp",
+    "sort_order": 22,
+    "created_at": "2026-04-15T17:56:40.288Z",
+    "facebook": "johndoe",
+    "instagram": "@johndoe.official",
+    "whatsapp": "+8801712345601",
+    "phone_number": "+8801712340001",
+    "quote": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Pioneered the club's annual business symposium"
+      },
+      {
+        "serial": 2,
+        "text": "Grew club membership from 50 to 200 within one term"
+      }
+    ]
+  },
+  {
+    "id": "82959c0f-95b7-4a54-b846-a9a1f5343e54",
+    "year": "2023",
+    "name": "Abdur Rahman Safy",
+    "panel_name": "Executive member",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/abdur-rahman-safy.webp",
+    "sort_order": 23,
+    "created_at": "2026-04-15T17:56:22.358Z",
+    "facebook": "janedoe",
+    "instagram": "@janedoe_",
+    "whatsapp": "+8801712345602",
+    "phone_number": "+8801712340002",
+    "quote": "The best way to predict the future is to create it.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "7397856e-b9bf-499b-854a-ba417617a915",
+    "year": "2019",
+    "name": "Farzana Elme",
+    "panel_name": "Executive Member",
+    "linkedin_url": "",
+    "image_url": "",
+    "sort_order": 1,
+    "created_at": "2026-04-20T19:50:48.973Z",
+    "facebook": "taylor.lee",
+    "instagram": "@taylorlee",
+    "whatsapp": "+8801712345605",
+    "phone_number": "+8801712340005",
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Won inter-university business case competition as team lead"
+      },
+      {
+        "serial": 2,
+        "text": "Pioneered the club's annual business symposium"
+      }
+    ]
+  },
+  {
+    "id": "5efecb47-6b11-430b-a92a-815de419edc0",
+    "year": "2019",
+    "name": "Jarif Tahmeed",
+    "panel_name": "Executive Member",
+    "linkedin_url": "",
+    "image_url": "",
+    "sort_order": 2,
+    "created_at": "2026-04-20T19:51:06.263Z",
+    "facebook": "jordan.smith",
+    "instagram": "@jordan.smith",
+    "whatsapp": "+8801712345609",
+    "phone_number": "+8801712340009",
+    "quote": "Stay hungry, stay foolish.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Represented the university at the National Business Summit"
+      },
+      {
+        "serial": 2,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      }
+    ]
+  },
+  {
+    "id": "2cecb925-3e43-434b-b4cd-81c1ab426272",
+    "year": "2017",
+    "name": "Urmi Barman",
+    "panel_name": "Organising Secretary",
+    "linkedin_url": "",
+    "image_url": "",
+    "sort_order": 1,
+    "created_at": "2026-04-20T19:47:04.484Z",
+    "facebook": "casey.kim",
+    "instagram": "@caseykim_",
+    "whatsapp": "+8801712345607",
+    "phone_number": "+8801712340007",
+    "quote": "In the middle of every difficulty lies opportunity.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "65905639-a95c-4212-b6e4-18d771d0e08f",
+    "year": "2017",
+    "name": "Abdullah Wasick",
+    "panel_name": "Chief Executive",
+    "linkedin_url": "",
+    "image_url": "",
+    "sort_order": 2,
+    "created_at": "2026-04-20T19:47:27.647Z",
+    "facebook": "sam.wilson",
+    "instagram": "@samwilson_",
+    "whatsapp": "+8801712345603",
+    "phone_number": "+8801712340003",
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      },
+      {
+        "serial": 2,
+        "text": "Represented the university at the National Business Summit"
+      }
+    ]
+  },
+  {
+    "id": "ae8070cc-cec0-4dc9-88bd-8cf839daf10d",
+    "year": "2017",
+    "name": "Hamim Dewan",
+    "panel_name": "Law and Discipline Secretary",
+    "linkedin_url": "",
+    "image_url": "",
+    "sort_order": 3,
+    "created_at": "2026-04-20T19:48:02.923Z",
+    "facebook": "sam.wilson",
+    "instagram": "@samwilson_",
+    "whatsapp": "+8801712345603",
+    "phone_number": "+8801712340003",
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      },
+      {
+        "serial": 2,
+        "text": "Represented the university at the National Business Summit"
+      }
+    ]
+  },
+  {
+    "id": "fe4881d7-bb4b-4cf0-b9e7-e8bec65eef30",
+    "year": "2017",
+    "name": "Hasib Hossain Virat",
+    "panel_name": "Administrative Secretary",
+    "linkedin_url": "",
+    "image_url": "",
+    "sort_order": 4,
+    "created_at": "2026-04-20T19:48:25.659Z",
+    "facebook": "quinn.taylor",
+    "instagram": "@quinntaylor",
+    "whatsapp": "+8801712345611",
+    "phone_number": "+8801712340011",
+    "quote": "Excellence is not a skill. It is an attitude.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Served as the club president and led a team of 25 executives"
+      },
+      {
+        "serial": 2,
+        "text": "Organized the largest fundraising event in club history"
+      }
+    ]
+  },
+  {
+    "id": "4e6a0a6b-321e-48eb-a571-329d225de70b",
+    "year": "2017",
+    "name": "Shakibul Karim Mahi",
+    "panel_name": "Vice President",
+    "linkedin_url": "",
+    "image_url": "",
+    "sort_order": 5,
+    "created_at": "2026-04-20T19:48:54.017Z",
+    "facebook": "cameron.davis",
+    "instagram": "@camerondavis",
+    "whatsapp": "+8801712345613",
+    "phone_number": "+8801712340013",
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      },
+      {
+        "serial": 2,
+        "text": "Established the club's corporate partnership framework"
+      }
+    ]
+  },
+  {
+    "id": "ca12212a-7875-46bd-8002-403052af801a",
+    "year": "2017",
+    "name": "Zobayer Hasan (Rakin) ",
+    "panel_name": "President",
+    "linkedin_url": "",
+    "image_url": "",
+    "sort_order": 6,
+    "created_at": "2026-04-20T19:49:34.627Z",
+    "facebook": "taylor.lee",
+    "instagram": "@taylorlee",
+    "whatsapp": "+8801712345605",
+    "phone_number": "+8801712340005",
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Won inter-university business case competition as team lead"
+      },
+      {
+        "serial": 2,
+        "text": "Pioneered the club's annual business symposium"
+      }
+    ]
+  },
+  {
+    "id": "95f9e928-2e39-4328-b5ee-dc1b8d78fd46",
+    "year": "2016",
+    "name": "Md. Daulat Hassan Khan",
+    "panel_name": "President",
+    "linkedin_url": "https://www.linkedin.com/in/dhkhan/",
+    "image_url": "/assets/md-daulat-hassan-khan.webp",
+    "sort_order": 1,
+    "created_at": "2026-04-20T17:28:47.128Z",
+    "facebook": "riley.park",
+    "instagram": "@rileypark",
+    "whatsapp": "+8801712345608",
+    "phone_number": "+8801712340008",
+    "quote": "Your time is limited, don't waste it living someone else's life.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Mentored 3 successive leadership teams after tenure"
+      },
+      {
+        "serial": 2,
+        "text": "Established the club's corporate partnership framework"
+      }
+    ]
+  },
+  {
+    "id": "a02dd4a2-8775-4da6-98b5-8c7ff009c952",
+    "year": "2016",
+    "name": "Sumaya Tahmeed Zafreen",
+    "panel_name": "Vice President",
+    "linkedin_url": "https://www.linkedin.com/in/sumaya-tahmeed-zafreen-5365a01ab/",
+    "image_url": "/assets/sumaya-tahmeed-zafreen.webp",
+    "sort_order": 2,
+    "created_at": "2026-04-20T17:29:40.668Z",
+    "facebook": "johndoe",
+    "instagram": "@johndoe.official",
+    "whatsapp": "+8801712345601",
+    "phone_number": "+8801712340001",
+    "quote": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Pioneered the club's annual business symposium"
+      },
+      {
+        "serial": 2,
+        "text": "Grew club membership from 50 to 200 within one term"
+      }
+    ]
+  },
+  {
+    "id": "b32240c2-59a0-4aaa-a717-fd0a1b384a80",
+    "year": "2016",
+    "name": "Moshaddek Hossain Alok",
+    "panel_name": "General Secretary",
+    "linkedin_url": "https://www.linkedin.com/in/moshaddek-hossain-alok-91a375210/",
+    "image_url": "/assets/images/alumni/moshaddek-hossain-alok.webp",
+    "sort_order": 3,
+    "created_at": "2026-04-20T17:31:17.919Z",
+    "facebook": "jordan.smith",
+    "instagram": "@jordan.smith",
+    "whatsapp": "+8801712345609",
+    "phone_number": "+8801712340009",
+    "quote": "Stay hungry, stay foolish.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Represented the university at the National Business Summit"
+      },
+      {
+        "serial": 2,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      }
+    ]
+  },
+  {
+    "id": "e30f9271-b3ec-4943-b978-5755e731336e",
+    "year": "2016",
+    "name": " Ashiq Bin Helal",
+    "panel_name": "Organising Secretary",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/ashiq-bin-helal.webp",
+    "sort_order": 4,
+    "created_at": "2026-04-20T17:32:34.055Z",
+    "facebook": "ellis.johnson",
+    "instagram": "@ellisjohnson",
+    "whatsapp": "+8801712345615",
+    "phone_number": "+8801712340015",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Created a alumni mentorship program connecting 100+ members"
+      },
+      {
+        "serial": 2,
+        "text": "Served as the club president and led a team of 25 executives"
+      }
+    ]
+  },
+  {
+    "id": "aea04e76-20af-4531-b503-2d9cb6d5b8ef",
+    "year": "2016",
+    "name": "Hafizur Rahman Shimanto",
+    "panel_name": "Administration Secretary",
+    "linkedin_url": "https://www.linkedin.com/in/md-hafizur-rahman-shimanto-96b335260/",
+    "image_url": "",
+    "sort_order": 5,
+    "created_at": "2026-04-20T17:33:43.909Z",
+    "facebook": "jordan.smith",
+    "instagram": "@jordan.smith",
+    "whatsapp": "+8801712345609",
+    "phone_number": "+8801712340009",
+    "quote": "Stay hungry, stay foolish.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Established the club's corporate partnership framework"
+      },
+      {
+        "serial": 2,
+        "text": "Won inter-university business case competition as team lead"
+      }
+    ]
+  },
+  {
+    "id": "2cae0e13-f127-47dd-8d86-15d72fb13488",
+    "year": "2016",
+    "name": " Mohitul Islam Khan",
+    "panel_name": "Administration Secretary",
+    "linkedin_url": "https://www.linkedin.com/in/mohitul-islam-khan-583a31156/",
+    "image_url": "/assets/mohitul-islam-khan.webp",
+    "sort_order": 6,
+    "created_at": "2026-04-20T17:34:43.026Z",
+    "facebook": "blake.wong",
+    "instagram": "@blakewong",
+    "whatsapp": "+8801712345612",
+    "phone_number": "+8801712340012",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "4ba82c8a-b71a-4c0c-aee8-53693236f1b1",
+    "year": "2016",
+    "name": "Tahrin Binte Tariq",
+    "panel_name": "Administration Secretary",
+    "linkedin_url": "",
+    "image_url": "",
+    "sort_order": 7,
+    "created_at": "2026-04-20T17:48:37.034Z",
+    "facebook": "quinn.taylor",
+    "instagram": "@quinntaylor",
+    "whatsapp": "+8801712345611",
+    "phone_number": "+8801712340011",
+    "quote": "Excellence is not a skill. It is an attitude.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Pioneered the club's annual business symposium"
+      },
+      {
+        "serial": 2,
+        "text": "Grew club membership from 50 to 200 within one term"
+      }
+    ]
+  },
+  {
+    "id": "2a6fafb5-9ff7-4b48-aebf-39a6820a6c90",
+    "year": "2016",
+    "name": "Julekha Islam Jerin",
+    "panel_name": "Law & Discipline Secretary",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/julekha-islam-jerin.webp",
+    "sort_order": 8,
+    "created_at": "2026-04-20T17:54:36.228Z",
+    "facebook": "avery.brown",
+    "instagram": "@averybrown",
+    "whatsapp": "+8801712345610",
+    "phone_number": "+8801712340010",
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Won inter-university business case competition as team lead"
+      },
+      {
+        "serial": 2,
+        "text": "Pioneered the club's annual business symposium"
+      }
+    ]
+  },
+  {
+    "id": "166e5ac0-add5-496b-b7c5-22fa1963e6ed",
+    "year": "2016",
+    "name": "Shanewaz Foysal",
+    "panel_name": "Law & Discipline Secretary",
+    "linkedin_url": "",
+    "image_url": "/assets/images/alumni/shanewaz-foysal.webp",
+    "sort_order": 9,
+    "created_at": "2026-04-20T17:54:07.367Z",
+    "facebook": "morgan.chen",
+    "instagram": "@morganchen",
+    "whatsapp": "+8801712345606",
+    "phone_number": "+8801712340006",
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Pioneered the club's annual business symposium"
+      },
+      {
+        "serial": 2,
+        "text": "Grew club membership from 50 to 200 within one term"
+      }
+    ]
+  },
+  {
+    "id": "c6ba5d41-1d3f-4a27-a00d-a41134c70a4c",
+    "year": "2016",
+    "name": "Raisa Iftikhar",
+    "panel_name": "Public Relation Secretary",
+    "linkedin_url": "https://www.linkedin.com/in/raisa-iftikhar-6816a7210/",
+    "image_url": "/assets/raisa-iftikhar.webp",
+    "sort_order": 10,
+    "created_at": "2026-04-20T17:56:33.346Z",
+    "facebook": "ellis.johnson",
+    "instagram": "@ellisjohnson",
+    "whatsapp": "+8801712345615",
+    "phone_number": "+8801712340015",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Won inter-university business case competition as team lead"
+      },
+      {
+        "serial": 2,
+        "text": "Pioneered the club's annual business symposium"
+      }
+    ]
+  },
+  {
+    "id": "d9cd0fde-a5f3-4729-b87f-e5a30b0003e7",
+    "year": "2016",
+    "name": "Muhaiminul Islam Fahim",
+    "panel_name": "Public Relation Secretary",
+    "linkedin_url": "https://www.linkedin.com/in/muhaiminfahim/",
+    "image_url": "/assets/muhaiminul-islam-fahim.webp",
+    "sort_order": 11,
+    "created_at": "2026-04-20T17:55:36.885Z",
+    "facebook": "janedoe",
+    "instagram": "@janedoe_",
+    "whatsapp": "+8801712345602",
+    "phone_number": "+8801712340002",
+    "quote": "The best way to predict the future is to create it.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Grew club membership from 50 to 200 within one term"
+      },
+      {
+        "serial": 2,
+        "text": "Launched a student investment fund with $5,000 seed capital"
+      }
+    ]
+  },
+  {
+    "id": "5cef6f8a-7429-461e-b9a1-4c1e2843df42",
+    "year": "2015",
+    "name": "Md Khurshid Alam Topu",
+    "panel_name": "President",
+    "linkedin_url": "https://www.linkedin.com/in/khurshid-topu",
+    "image_url": "",
+    "sort_order": 1,
+    "created_at": "2026-04-20T17:25:35.669Z",
+    "facebook": "taylor.lee",
+    "instagram": "@taylorlee",
+    "whatsapp": "+8801712345605",
+    "phone_number": "+8801712340005",
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "achievements": [
+      {
+        "serial": 1,
+        "text": "Won inter-university business case competition as team lead"
+      },
+      {
+        "serial": 2,
+        "text": "Pioneered the club's annual business symposium"
+      }
+    ]
+  }
+]
