@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ach-01",
+    "title": "National Business Conference — 2nd Place",
+    "year": "2025",
+    "description": "The club's case team represented ACC at the national conference and secured 2nd place among 40+ competing teams.",
+    "image": "/assets/gallery/gallery-11.webp"
+  },
+  {
+    "id": "ach-02",
+    "title": "Digital Transformation Initiative",
+    "year": "2025",
+    "description": "Spearheaded the club's move to a digital-first presence, increasing member engagement by 40%.",
+    "image": "/assets/gallery/gallery-5.webp"
+  },
+  {
+    "id": "ach-03",
+    "title": "Case Competition Mentorship Circuit",
+    "year": "2024",
+    "description": "Mentored 20+ junior members through structured case competition preparation, producing three podium finishes.",
+    "image": "/assets/gallery/gallery-9.webp"
+  },
+  {
+    "id": "ach-04",
+    "title": "FinTech Forum Hosted",
+    "year": "2024",
+    "description": "Gathered 150+ students for a flagship forum bridging decentralized finance with legacy financial structures.",
+    "image": "/assets/gallery/gallery-4.webp"
+  },
+  {
+    "id": "ach-05",
+    "title": "First National Conference Qualifier",
+    "year": "2023",
+    "description": "The first ACC team to qualify for the national business conference, setting the benchmark for future cohorts.",
+    "image": "/assets/gallery/gallery-13.webp"
+  },
+  {
+    "id": "ach-06",
+    "title": "Campus Welcome Campaign",
+    "year": "2023",
+    "description": "Ran a cross-department recruitment campaign that tripled club membership within a semester.",
+    "image": "/assets/gallery/gallery-6.webp"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tour-01",
+    "title": "Industrial Visit — Textile Manufacturing Plant",
+    "year": "2025",
+    "description": "On-ground tour of a large-scale textile facility, from raw fiber to finished export.",
+    "image": "/assets/gallery/gallery-1.webp"
+  },
+  {
+    "id": "tour-02",
+    "title": "Banking HQ Corporate Visit",
+    "year": "2025",
+    "description": "Walkthrough of treasury and retail banking operations with mid-level management.",
+    "image": "/assets/gallery/gallery-4.webp"
+  },
+  {
+    "id": "tour-03",
+    "title": "Startup Hub Study Tour",
+    "year": "2024",
+    "description": "Day-long immersion at a startup incubator — pitching, product-market fit, and investor talks.",
+    "image": "/assets/gallery/gallery-5.webp"
+  },
+  {
+    "id": "tour-04",
+    "title": "Rural Economy Field Trip",
+    "year": "2024",
+    "description": "Survey of supply-chain economics at a rural market cluster and local agri-processing units.",
+    "image": "/assets/gallery/gallery-6.webp"
+  },
+  {
+    "id": "tour-05",
+    "title": "Stock Exchange Floor Visit",
+    "year": "2023",
+    "description": "Behind-the-scenes look at market mechanics, trading floors, and regulatory frameworks.",
+    "image": "/assets/gallery/gallery-13.webp"
+  }
+]

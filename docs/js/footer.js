@@ -20,6 +20,8 @@ document.addEventListener("DOMContentLoaded", () => {
                     <a href="/about/">About Us</a>
                     <a href="/events/">Events</a>
                     <a href="/gallery/">Gallery</a>
+                    <a href="/achievements/">Achievements</a>
+                    <a href="/tour/">Tour</a>
                 </div>
                 <div class="footer-links-col">
                     <h4>Teams</h4>
