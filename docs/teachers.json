@@ -73,5 +73,41 @@
         "text": "Received the 'Excellence in Teaching' award for 3 consecutive years"
       }
     ]
+  },
+  {
+    "id": "tch-04",
+    "name": "Md Masum",
+    "role": "Member",
+    "image": "/assets/md-masum.webp",
+    "facebook": "",
+    "instagram": "",
+    "whatsapp": "",
+    "phone_number": "",
+    "quote": "",
+    "achievements": []
+  },
+  {
+    "id": "tch-05",
+    "name": "Rasina Afroz",
+    "role": "Member",
+    "image": "/assets/rasina-afroz.webp",
+    "facebook": "",
+    "instagram": "",
+    "whatsapp": "",
+    "phone_number": "",
+    "quote": "",
+    "achievements": []
+  },
+  {
+    "id": "tch-06",
+    "name": "Kaniz Fatema",
+    "role": "Member",
+    "image": "/assets/kaniz-fatema.webp",
+    "facebook": "",
+    "instagram": "",
+    "whatsapp": "",
+    "phone_number": "",
+    "quote": "",
+    "achievements": []
   }
 ]
