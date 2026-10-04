@@ -16,7 +16,6 @@ miscellaneous/
 # Dependencies & Environment
 node_modules/
 .env
-docs/js/config.js
 .vite/
 docs/.vite/
 redesign/
