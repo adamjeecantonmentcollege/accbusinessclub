@@ -617,7 +617,9 @@
     }
 }
 
-.home-page .member-card-text {
+/* Caption must stay positioned on every page: without z-index it paints under the
+   absolute .member-img-wrapper, hiding name+role on /executives /teachers /advisors /alumni. */
+.member-card-text {
     position: relative;
     z-index: 2;
     padding: 40px 24px 24px;
