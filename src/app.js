@@ -1,14 +1,16 @@
 const { corsMiddleware } = require("./middleware/cors.middleware");
 const { errorMiddleware, notFound } = require("./middleware/error.middleware");
-const { registerHealthRoute } = require("./routes/health.routes");
-const { registerRoutes } = require("./routes/registration.routes");
+const { healthRouter, registrationRouter, membersRouter, imagesRouter } = require("./endpoints");
 
 function createApp() {
   const app = require("express")();
-  registerHealthRoute(app);
+  // healthRouter must stay BEFORE corsMiddleware: CORS-free liveness probe
+  app.use(healthRouter);
   app.use(corsMiddleware);
   app.use(require("express").json());
-  registerRoutes(app);
+  app.use(imagesRouter);
+  app.use(registrationRouter);
+  app.use(membersRouter);
   app.use(notFound);
   app.use(errorMiddleware);
   return app;

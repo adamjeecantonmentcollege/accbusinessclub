@@ -4,7 +4,7 @@
  * Run: node src/tests/verify-registration.js  (or npm run verify:registration)
  * Exits 0 on all pass, 1 on any failure.
  */
-const { validateRegistration } = require("../validators/registration.validator");
+const { validateRegistration } = require("../endpoints/registration/registration.validator");
 
 let pass = 0, fail = 0;
 function ok(desc) { pass++; }

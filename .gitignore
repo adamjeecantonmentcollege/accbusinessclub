@@ -6,6 +6,7 @@ btw/
 .codegraph/
 .omo/
 .sisyphus/
+.playwright-mcp/
 temp/
 
 # Crawl & asset archives (not part of the site)
@@ -15,6 +16,7 @@ miscellaneous/
 # Dependencies & Environment
 node_modules/
 .env
+docs/js/config.js
 .vite/
 docs/.vite/
 redesign/

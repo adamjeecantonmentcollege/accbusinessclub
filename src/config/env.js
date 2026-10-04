@@ -15,6 +15,15 @@ const AUTO_PING_TARGETS = RAW_PING_TARGETS.split(",")
   .filter(Boolean)
   .map((entry) => (/^[a-z][a-z0-9+.-]*:\/\//i.test(entry) ? entry : `https://${entry}`));
 
+const MEMBERS_TABLE = process.env.SUPABASE_MEMBERS_TABLE_NAME || "members";
+const ADMIN_TOKEN = process.env.ADMIN_TOKEN || "";
+const S3_ENDPOINT = (process.env.S3_ENDPOINT || "").replace(/\/$/, "");
+const S3_REGION = process.env.S3_REGION || "ap-northeast-1";
+const S3_ACCESS_KEY_ID = process.env.S3_ACCESS_KEY_ID || "";
+const S3_SECRET_ACCESS_KEY = process.env.S3_SECRET_ACCESS_KEY || "";
+const S3_BUCKET = process.env.S3_BUCKET || "";
+const S3_PUBLIC_BASE_URL = (process.env.S3_PUBLIC_BASE_URL || "").replace(/\/$/, "");
+
 module.exports = {
   PORT,
   CF_SECRET,
@@ -24,4 +33,12 @@ module.exports = {
   REGISTRATION_TABLE,
   SUPABASE_ENABLED,
   AUTO_PING_TARGETS,
+  MEMBERS_TABLE,
+  ADMIN_TOKEN,
+  S3_ENDPOINT,
+  S3_REGION,
+  S3_ACCESS_KEY_ID,
+  S3_SECRET_ACCESS_KEY,
+  S3_BUCKET,
+  S3_PUBLIC_BASE_URL,
 };

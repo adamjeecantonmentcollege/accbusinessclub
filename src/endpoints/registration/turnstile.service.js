@@ -1,4 +1,4 @@
-const { CF_SECRET } = require("../config/env");
+const { CF_SECRET } = require("../../config/env");
 
 async function verifyTurnstileToken(token, remoteIp) {
   if (!token || typeof token !== "string" || !token.trim()) return false;

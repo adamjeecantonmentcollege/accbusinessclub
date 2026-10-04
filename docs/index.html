@@ -196,15 +196,16 @@ body::-webkit-scrollbar{width:0;height:0;display:none}
 
 <footer class="site-footer" id="site-footer"></footer>
 
-    <script src="js/members.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/members.js?v=1755ef79-6537-4e27-b96e-34b9c5ee526c"></script>
     <script src="js/intro.js"></script>
     <script src="js/navbar.js"></script>
     <script src="js/hero.js"></script>
     <script src="js/footer.js"></script>
-    <script src="js/alumni.js"></script>
-    <script>renderMembers("/executives.json","home-exec-grid");</script>
-    <script>renderMembers("/teachers.json","home-teachers-grid");</script>
-    <script>renderMembers("/advisors.json","home-advisors-grid");</script>
+    <script src="js/alumni.js?v=f2bf4ff4-4b3a-4efa-8869-90f49f267b43"></script>
+    <script>renderMembers("executive","home-exec-grid");</script>
+    <script>renderMembers("teacher","home-teachers-grid");</script>
+    <script>renderMembers("advisor","home-advisors-grid");</script>
     <script>
     document.querySelectorAll('.cta-link').forEach(function(link) {
         link.addEventListener('click', function(e) {

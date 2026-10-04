@@ -1,6 +1,22 @@
 (function () {
   'use strict';
 
+  function getBackendUrl() {
+    if (typeof BACKEND !== "undefined" && BACKEND) return String(BACKEND).replace(/\/$/, "");
+    if (typeof window !== "undefined" && window.BACKEND) return String(window.BACKEND).replace(/\/$/, "");
+    return "";
+  }
+
+  function resolveImageUrl(img) {
+    if (!img) return "";
+    var s = String(img).trim();
+    if (s.startsWith("members/")) {
+      var base = getBackendUrl();
+      return (base ? base : "") + "/api/images/" + s;
+    }
+    return s;
+  }
+
   function isValidSocial(val) {
     if (!val) return false;
     var s = String(val).trim();
@@ -25,19 +41,30 @@
     var isHomepage = container.hasAttribute('data-homepage');
     var alumniData, sortedYears;
 
+    var base = getBackendUrl();
+    var apiUrl = base ? base + "/api/public/members?panel=alumni" : "/alumni.json";
+
     try {
-      var res = await fetch('/alumni.json');
-      if (!res.ok) throw new Error('Network error');
+      var res = await fetch(apiUrl);
+      if (!res.ok) throw new Error('HTTP ' + res.status);
       alumniData = await res.json();
     } catch (e) {
-      container.innerHTML = '<p style="color:rgba(255,255,255,0.3);text-align:center;padding:40px 0;">Could not load alumni data.</p>';
-      return;
+      // Fallback to local json if backend request fails
+      try {
+        var fallbackRes = await fetch('/alumni.json');
+        if (!fallbackRes.ok) throw new Error('Fallback failed');
+        alumniData = await fallbackRes.json();
+      } catch (fallbackErr) {
+        container.innerHTML = '<p style="color:rgba(255,255,255,0.3);text-align:center;padding:40px 0;">Could not load alumni data.</p>';
+        return;
+      }
     }
 
     var grouped = {};
     alumniData.forEach(function (m) {
-      if (!grouped[m.year]) grouped[m.year] = [];
-      grouped[m.year].push(m);
+      var yr = m.year ? String(m.year) : "Alumni";
+      if (!grouped[yr]) grouped[yr] = [];
+      grouped[yr].push(m);
     });
 
     sortedYears = Object.keys(grouped).sort(function (a, b) { return Number(b) - Number(a); });
@@ -79,13 +106,16 @@
 
       container.innerHTML = members.map(function (m, index) {
         var initials = getInitials(m.name);
+        var rawImg = m.image || m.image_url;
+        var resolvedSrc = resolveImageUrl(rawImg);
         var imgHtml;
-        if (m.image_url) {
-          imgHtml = '<img class="member-img" src="' + escapeAttr(m.image_url) + '" alt="' + escapeAttr(m.name) + '" loading="lazy">';
+        if (resolvedSrc) {
+          imgHtml = '<img class="member-img" src="' + escapeAttr(resolvedSrc) + '" alt="' + escapeAttr(m.name) + '" loading="lazy">';
         } else {
           imgHtml = '';
         }
 
+        var roleText = m.role || m.panel_name || "";
         return '<div class="member-card alumni-card" data-member-index="' + index + '" style="cursor: pointer;">' +
           '<div class="member-img-wrapper">' +
           '<div class="member-placeholder"><span class="member-initials">' + escapeHtml(initials) + '</span></div>' +
@@ -93,7 +123,7 @@
           '</div>' +
           '<div class="member-card-text">' +
           '<h3 class="member-name">' + escapeHtml(m.name) + '</h3>' +
-          '<p class="member-role">' + escapeHtml(m.panel_name) + '</p>' +
+          '<p class="member-role">' + escapeHtml(roleText) + '</p>' +
           '</div></div>';
       }).join('');
 
@@ -308,7 +338,8 @@
 
       var name = member.name || "";
       var role = member.role || member.panel_name || "";
-      var image = member.image || member.image_url || "";
+      var rawImg = member.image || member.image_url || "";
+      var image = resolveImageUrl(rawImg);
       
       var initials = name.split(" ").map(function (w) { return w.charAt(0); }).join("").substring(0, 2).toUpperCase();
       var escapedInitials = encodeURIComponent(initials);

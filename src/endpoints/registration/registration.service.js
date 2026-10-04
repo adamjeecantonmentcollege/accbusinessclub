@@ -1,5 +1,5 @@
-const { validateRegistration } = require("../validators/registration.validator");
-const { supabase, table } = require("../config/supabase");
+const { validateRegistration } = require("./registration.validator");
+const { supabase, table } = require("../../db/client");
 const { verifyTurnstileToken } = require("./turnstile.service");
 
 async function submitRegistration(rawBody, clientIp) {

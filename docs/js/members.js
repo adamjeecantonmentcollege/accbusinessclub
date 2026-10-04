@@ -1,6 +1,58 @@
 (function () {
   "use strict";
 
+  function getBackendUrl() {
+    if (typeof BACKEND !== "undefined" && BACKEND) return String(BACKEND).replace(/\/$/, "");
+    if (typeof window !== "undefined" && window.BACKEND) return String(window.BACKEND).replace(/\/$/, "");
+    return "";
+  }
+
+  function resolveImageUrl(img) {
+    if (!img) return "";
+    var s = String(img).trim();
+    if (s.startsWith("members/")) {
+      var base = getBackendUrl();
+      return (base ? base : "") + "/api/images/" + s;
+    }
+    return s;
+  }
+
+  function resolveApiUrl(source) {
+    var s = String(source || "").trim();
+    var base = getBackendUrl();
+
+    // Map known panel names / files to public API endpoints
+    var panelMap = {
+      "/executives.json": "executive",
+      "executives.json": "executive",
+      "executive": "executive",
+      "executives": "executive",
+      "/teachers.json": "teacher",
+      "teachers.json": "teacher",
+      "teacher": "teacher",
+      "teachers": "teacher",
+      "/advisors.json": "advisor",
+      "advisors.json": "advisor",
+      "advisor": "advisor",
+      "advisors": "advisor",
+      "/alumni.json": "alumni",
+      "alumni.json": "alumni",
+      "alumni": "alumni"
+    };
+
+    var panel = panelMap[s.toLowerCase()];
+    if (panel) {
+      if (base) return base + "/api/public/members?panel=" + panel;
+      return "/" + panel + (panel === "alumni" ? "" : "s") + ".json";
+    }
+
+    if (s.startsWith("http://") || s.startsWith("https://") || s.startsWith("/api/")) {
+      return s;
+    }
+
+    return base ? base + "/api/public/members?panel=" + encodeURIComponent(s) : s;
+  }
+
   function isValidSocial(val) {
     if (!val) return false;
     var s = String(val).trim();
@@ -26,8 +78,9 @@
   }
 
   function memberCard(member, index) {
-    var src = member.image || "";
-    var initials = getInitials(member.name);
+    var rawImage = member.image || member.image_url || "";
+    var src = resolveImageUrl(rawImage);
+    var initials = getInitials(member.name || "");
     var escapedInitials = encodeURIComponent(initials);
 
     if (!src) {
@@ -37,11 +90,11 @@
     return (
       '<div class="member-card" data-member-index="' + index + '" style="cursor: pointer;">' +
         '<div class="member-img-wrapper skeleton">' +
-          '<img class="member-img" src="' + src + '" alt="' + member.name + '" loading="lazy" onerror="this.src=\'data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27400%27%3E%3Crect fill=%27%231a1f2e%27 width=%27400%27 height=%27400%27/%3E%3Ctext fill=%27%234a5568%27 font-size=%27120%27 x=%27200%27 y=%27220%27 text-anchor=%27middle%27 font-family=%27Inter,sans-serif%27%3E' + escapedInitials + '%3C/text%3E%3C/svg%3E\';this.parentElement.classList.remove(\'skeleton\')" onload="this.parentElement.classList.remove(\'skeleton\')">' +
+          '<img class="member-img" src="' + src + '" alt="' + (member.name || "") + '" loading="lazy" onerror="this.src=\'data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27400%27%3E%3Crect fill=%27%231a1f2e%27 width=%27400%27 height=%27400%27/%3E%3Ctext fill=%27%234a5568%27 font-size=%27120%27 x=%27200%27 y=%27220%27 text-anchor=%27middle%27 font-family=%27Inter,sans-serif%27%3E' + escapedInitials + '%3C/text%3E%3C/svg%3E\';this.parentElement.classList.remove(\'skeleton\')" onload="this.parentElement.classList.remove(\'skeleton\')">' +
         '</div>' +
         '<div class="member-card-text">' +
-          '<h3 class="member-name">' + member.name + '</h3>' +
-          '<p class="member-role">' + member.role + '</p>' +
+          '<h3 class="member-name">' + (member.name || "") + '</h3>' +
+          '<p class="member-role">' + (member.role || member.panel_name || "") + '</p>' +
         '</div>' +
       '</div>'
     );
@@ -60,7 +113,7 @@
     });
   }
 
-  window.renderMembers = function (jsonUrl, containerId) {
+  window.renderMembers = function (source, containerId) {
     var container = document.getElementById(containerId);
     if (!container) return;
 
@@ -68,10 +121,16 @@
       ? parseInt(container.getAttribute("data-limit"), 10)
       : Infinity;
 
-    fetch(jsonUrl)
-      .then(function (r) { return r.json(); })
+    var endpointUrl = resolveApiUrl(source);
+
+    fetch(endpointUrl)
+      .then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json();
+      })
       .then(function (data) {
-        var items = limit < Infinity ? data.slice(0, limit) : data;
+        var items = Array.isArray(data) ? data : [];
+        if (limit < Infinity) items = items.slice(0, limit);
         container.memberData = items;
         container.innerHTML = items.map(function (item, index) {
           return memberCard(item, index);
@@ -80,7 +139,7 @@
         initStagger(container);
       })
       .catch(function (err) {
-        console.error("members.js: failed to load " + jsonUrl, err);
+        console.error("members.js: failed to load from " + endpointUrl, err);
       });
   };
 
@@ -251,7 +310,8 @@
 
       var name = member.name || "";
       var role = member.role || member.panel_name || "";
-      var image = member.image || member.image_url || "";
+      var rawImage = member.image || member.image_url || "";
+      var image = resolveImageUrl(rawImage);
       
       var initials = name.split(" ").map(function (w) { return w.charAt(0); }).join("").substring(0, 2).toUpperCase();
       var escapedInitials = encodeURIComponent(initials);
